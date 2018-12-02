@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: a857e7eb5d88a7b49be4dff3bb627422
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Anel010_low
+    100002: Anel011_low
+    100004: Anel012_low
+    100006: Anel013_low
+    100008: Anel014_low
+    100010: Anel015_low
+    100012: Anel016_low
+    100014: Anel017_low
+    100016: Anel018_low
+    100018: Anel01_low
+    100020: Anel01_low 1
+    100022: Anel01_low 2
+    100024: Anel02_low
+    100026: Anel02_low 1
+    100028: Anel02_low 2
+    100030: Anel03_low
+    100032: Anel03_low 1
+    100034: Anel03_low 2
+    100036: Anel04_low
+    100038: Anel04_low 1
+    100040: Anel04_low 2
+    100042: Anel05_low
+    100044: Anel05_low 1
+    100046: Anel05_low 2
+    100048: Anel06_low
+    100050: Anel06_low 1
+    100052: Anel06_low 2
+    100054: Anel07_low
+    100056: Anel07_low 1
+    100058: Anel07_low 2
+    100060: Anel08_low
+    100062: Anel08_low 1
+    100064: Anel08_low 2
+    100066: Anel09_low
+    100068: Anel09_low 1
+    100070: Anel09_low 2
+    100072: Anel10_low
+    100074: Anel10_low 1
+    100076: Anel10_low 2
+    100078: Anel11_low
+    100080: Anel11_low 1
+    100082: Anel11_low 2
+    100084: Anel12_low
+    100086: Anel12_low 1
+    100088: Anel12_low 2
+    100090: Anel13_low
+    100092: Anel13_low 1
+    100094: Anel13_low 2
+    100096: Anel14_low
+    100098: Anel14_low 1
+    100100: Anel14_low 2
+    100102: Anel15_low
+    100104: Anel15_low 1
+    100106: Anel15_low 2
+    100108: Anel16_low
+    100110: Anel16_low 1
+    100112: Anel16_low 2
+    100114: Anel17_low
+    100116: Anel17_low 1
+    100118: Anel17_low 2
+    100120: Anel18_low
+    100122: Anel18_low 1
+    100124: Anel18_low 2
+    100126: Anel19_low
+    100128: Anel19_low 1
+    100130: Anel19_low 2
+    100132: Anel20_low
+    100134: Anel20_low 1
+    100136: Anel20_low 2
+    100138: Anel21_low
+    100140: Anel21_low 1
+    100142: Anel21_low 2
+    100144: Anel22_low
+    100146: Anel22_low 1
+    100148: Anel22_low 2
+    100150: Anel23_low
+    100152: Anel23_low 1
+    100154: Anel23_low 2
+    100156: Anel24_low
+    100158: Anel24_low 1
+    100160: Anel24_low 2
+    100162: Anel25_low
+    100164: Anel25_low 1
+    100166: Anel25_low 2
+    100168: Anel26_low
+    100170: Anel26_low 1
+    100172: Anel26_low 2
+    100174: Anel27_low
+    100176: Anel27_low 1
+    100178: Anel27_low 2
+    100180: Anel28_low
+    100182: Anel28_low 1
+    100184: Anel29_low
+    100186: Anel29_low 1
+    100188: Anel30_low
+    100190: Anel30_low 1
+    100192: Anel31_low
+    100194: Anel31_low 1
+    100196: Anel32_low
+    100198: Anel32_low 1
+    100200: Anel33_low
+    100202: Anel33_low 1
+    100204: Anel34_low
+    100206: Anel34_low 1
+    100208: Anel35_low
+    100210: Anel35_low 1
+    100212: Anel36_low
+    100214: Anel36_low 1
+    100216: Anel37_low
+    100218: Anel37_low 1
+    100220: Anel38_low
+    100222: Anel38_low 1
+    100224: Anel39_low
+    100226: Anel39_low 1
+    100228: Anel40_low
+    100230: Anel40_low 1
+    100232: Anel41_low
+    100234: Anel41_low 1
+    100236: Anel42_low
+    100238: Anel42_low 1
+    100240: Anel43_low
+    100242: Anel43_low 1
+    100244: Anel44_low
+    100246: Anel44_low 1
+    100248: Anel45_low
+    100250: Anel45_low 1
+    100252: Anel46_low
+    100254: Anel46_low 1
+    100256: Anel47_low
+    100258: Anel47_low 1
+    100260: Anel48_low
+    100262: Anel48_low 1
+    100264: Anel49_low
+    100266: Anel49_low 1
+    100268: Anel50_low
+    100270: Anel50_low 1
+    100272: Anel51_low
+    100274: Anel51_low 1
+    100276: Anel52_low
+    100278: Anel52_low 1
+    100280: Anel53_low
+    100282: Anel53_low 1
+    100284: Anel54_low
+    100286: Anel54_low 1
+    100288: Anel55_low
+    100290: Anel55_low 1
+    100292: Anel56_low
+    100294: Anel56_low 1
+    100296: Anel57_low
+    100298: Anel57_low 1
+    100300: Anel58_low
+    100302: Anel58_low 1
+    100304: Anel59_low
+    100306: Anel59_low 1
+    100308: Anel60_low
+    100310: Anel60_low 1
+    100312: Anel61_low
+    100314: Anel61_low 1
+    100316: Anel62_low
+    100318: Anel62_low 1
+    100320: Anel63_low
+    100322: Anel63_low 1
+    100324: Anel64_low
+    100326: Anel64_low 1
+    100328: Anel65_low
+    100330: Anel65_low 1
+    100332: Anel66_low
+    100334: Anel66_low 1
+    100336: Anel67_low
+    100338: Anel67_low 1
+    100340: Anel68_low
+    100342: Anel68_low 1
+    100344: Anel70_low
+    100346: Anel71_low
+    100348: Anel72_low
+    100350: Anel73_low
+    100352: Anel74_low
+    100354: Anel75_low
+    100356: Anel76_low
+    100358: Anel77_low
+    100360: Anel78_low
+    100362: Anel85_low
+    100364: Anel86_low
+    100366: Anel87_low
+    100368: Anel88_low
+    100370: Anel89_low
+    100372: Anel90_low
+    100374: Anel_low
+    100376: Corredor_low
+    100378: Corrente1_low
+    100380: Corrente2_low
+    100382: Corrente_low
+    100384: group1_low
+    100386: //RootNode
+    100388: tabua01_low
+    100390: tabua02_low
+    100392: tabua03_low
+    100394: tabua04_low
+    100396: tabua05_low
+    100398: Tabuas_low
+    100400: Wood01_low
+    100402: Wood02_low
+    100404: Wood03_low
+    100406: Wood04_low
+    100408: Wood05_low
+    100410: Wood06_low
+    100412: Wood07_low
+    100414: Wood08_low
+    100416: Wood09_low
+    100418: Wood10_low
+    100420: Wood11_low
+    100422: Wood12_low
+    100424: Wood13_low
+    100426: Wood14_low
+    100428: Wood15_low
+    100430: Wood16_low
+    100432: Wood17_low
+    100434: Wood18_low
+    400000: Anel010_low
+    400002: Anel011_low
+    400004: Anel012_low
+    400006: Anel013_low
+    400008: Anel014_low
+    400010: Anel015_low
+    400012: Anel016_low
+    400014: Anel017_low
+    400016: Anel018_low
+    400018: Anel01_low
+    400020: Anel01_low 1
+    400022: Anel01_low 2
+    400024: Anel02_low
+    400026: Anel02_low 1
+    400028: Anel02_low 2
+    400030: Anel03_low
+    400032: Anel03_low 1
+    400034: Anel03_low 2
+    400036: Anel04_low
+    400038: Anel04_low 1
+    400040: Anel04_low 2
+    400042: Anel05_low
+    400044: Anel05_low 1
+    400046: Anel05_low 2
+    400048: Anel06_low
+    400050: Anel06_low 1
+    400052: Anel06_low 2
+    400054: Anel07_low
+    400056: Anel07_low 1
+    400058: Anel07_low 2
+    400060: Anel08_low
+    400062: Anel08_low 1
+    400064: Anel08_low 2
+    400066: Anel09_low
+    400068: Anel09_low 1
+    400070: Anel09_low 2
+    400072: Anel10_low
+    400074: Anel10_low 1
+    400076: Anel10_low 2
+    400078: Anel11_low
+    400080: Anel11_low 1
+    400082: Anel11_low 2
+    400084: Anel12_low
+    400086: Anel12_low 1
+    400088: Anel12_low 2
+    400090: Anel13_low
+    400092: Anel13_low 1
+    400094: Anel13_low 2
+    400096: Anel14_low
+    400098: Anel14_low 1
+    400100: Anel14_low 2
+    400102: Anel15_low
+    400104: Anel15_low 1
+    400106: Anel15_low 2
+    400108: Anel16_low
+    400110: Anel16_low 1
+    400112: Anel16_low 2
+    400114: Anel17_low
+    400116: Anel17_low 1
+    400118: Anel17_low 2
+    400120: Anel18_low
+    400122: Anel18_low 1
+    400124: Anel18_low 2
+    400126: Anel19_low
+    400128: Anel19_low 1
+    400130: Anel19_low 2
+    400132: Anel20_low
+    400134: Anel20_low 1
+    400136: Anel20_low 2
+    400138: Anel21_low
+    400140: Anel21_low 1
+    400142: Anel21_low 2
+    400144: Anel22_low
+    400146: Anel22_low 1
+    400148: Anel22_low 2
+    400150: Anel23_low
+    400152: Anel23_low 1
+    400154: Anel23_low 2
+    400156: Anel24_low
+    400158: Anel24_low 1
+    400160: Anel24_low 2
+    400162: Anel25_low
+    400164: Anel25_low 1
+    400166: Anel25_low 2
+    400168: Anel26_low
+    400170: Anel26_low 1
+    400172: Anel26_low 2
+    400174: Anel27_low
+    400176: Anel27_low 1
+    400178: Anel27_low 2
+    400180: Anel28_low
+    400182: Anel28_low 1
+    400184: Anel29_low
+    400186: Anel29_low 1
+    400188: Anel30_low
+    400190: Anel30_low 1
+    400192: Anel31_low
+    400194: Anel31_low 1
+    400196: Anel32_low
+    400198: Anel32_low 1
+    400200: Anel33_low
+    400202: Anel33_low 1
+    400204: Anel34_low
+    400206: Anel34_low 1
+    400208: Anel35_low
+    400210: Anel35_low 1
+    400212: Anel36_low
+    400214: Anel36_low 1
+    400216: Anel37_low
+    400218: Anel37_low 1
+    400220: Anel38_low
+    400222: Anel38_low 1
+    400224: Anel39_low
+    400226: Anel39_low 1
+    400228: Anel40_low
+    400230: Anel40_low 1
+    400232: Anel41_low
+    400234: Anel41_low 1
+    400236: Anel42_low
+    400238: Anel42_low 1
+    400240: Anel43_low
+    400242: Anel43_low 1
+    400244: Anel44_low
+    400246: Anel44_low 1
+    400248: Anel45_low
+    400250: Anel45_low 1
+    400252: Anel46_low
+    400254: Anel46_low 1
+    400256: Anel47_low
+    400258: Anel47_low 1
+    400260: Anel48_low
+    400262: Anel48_low 1
+    400264: Anel49_low
+    400266: Anel49_low 1
+    400268: Anel50_low
+    400270: Anel50_low 1
+    400272: Anel51_low
+    400274: Anel51_low 1
+    400276: Anel52_low
+    400278: Anel52_low 1
+    400280: Anel53_low
+    400282: Anel53_low 1
+    400284: Anel54_low
+    400286: Anel54_low 1
+    400288: Anel55_low
+    400290: Anel55_low 1
+    400292: Anel56_low
+    400294: Anel56_low 1
+    400296: Anel57_low
+    400298: Anel57_low 1
+    400300: Anel58_low
+    400302: Anel58_low 1
+    400304: Anel59_low
+    400306: Anel59_low 1
+    400308: Anel60_low
+    400310: Anel60_low 1
+    400312: Anel61_low
+    400314: Anel61_low 1
+    400316: Anel62_low
+    400318: Anel62_low 1
+    400320: Anel63_low
+    400322: Anel63_low 1
+    400324: Anel64_low
+    400326: Anel64_low 1
+    400328: Anel65_low
+    400330: Anel65_low 1
+    400332: Anel66_low
+    400334: Anel66_low 1
+    400336: Anel67_low
+    400338: Anel67_low 1
+    400340: Anel68_low
+    400342: Anel68_low 1
+    400344: Anel70_low
+    400346: Anel71_low
+    400348: Anel72_low
+    400350: Anel73_low
+    400352: Anel74_low
+    400354: Anel75_low
+    400356: Anel76_low
+    400358: Anel77_low
+    400360: Anel78_low
+    400362: Anel85_low
+    400364: Anel86_low
+    400366: Anel87_low
+    400368: Anel88_low
+    400370: Anel89_low
+    400372: Anel90_low
+    400374: Anel_low
+    400376: Corredor_low
+    400378: Corrente1_low
+    400380: Corrente2_low
+    400382: Corrente_low
+    400384: group1_low
+    400386: //RootNode
+    400388: tabua01_low
+    400390: tabua02_low
+    400392: tabua03_low
+    400394: tabua04_low
+    400396: tabua05_low
+    400398: Tabuas_low
+    400400: Wood01_low
+    400402: Wood02_low
+    400404: Wood03_low
+    400406: Wood04_low
+    400408: Wood05_low
+    400410: Wood06_low
+    400412: Wood07_low
+    400414: Wood08_low
+    400416: Wood09_low
+    400418: Wood10_low
+    400420: Wood11_low
+    400422: Wood12_low
+    400424: Wood13_low
+    400426: Wood14_low
+    400428: Wood15_low
+    400430: Wood16_low
+    400432: Wood17_low
+    400434: Wood18_low
+    2100000: Chains_mat
+    2100002: Wood_mat
+    2300000: Anel010_low
+    2300002: Anel011_low
+    2300004: Anel012_low
+    2300006: Anel013_low
+    2300008: Anel014_low
+    2300010: Anel015_low
+    2300012: Anel016_low
+    2300014: Anel017_low
+    2300016: Anel018_low
+    2300018: Anel01_low
+    2300020: Anel01_low 1
+    2300022: Anel01_low 2
+    2300024: Anel02_low
+    2300026: Anel02_low 1
+    2300028: Anel02_low 2
+    2300030: Anel03_low
+    2300032: Anel03_low 1
+    2300034: Anel03_low 2
+    2300036: Anel04_low
+    2300038: Anel04_low 1
+    2300040: Anel04_low 2
+    2300042: Anel05_low
+    2300044: Anel05_low 1
+    2300046: Anel05_low 2
+    2300048: Anel06_low
+    2300050: Anel06_low 1
+    2300052: Anel06_low 2
+    2300054: Anel07_low
+    2300056: Anel07_low 1
+    2300058: Anel07_low 2
+    2300060: Anel08_low
+    2300062: Anel08_low 1
+    2300064: Anel08_low 2
+    2300066: Anel09_low
+    2300068: Anel09_low 1
+    2300070: Anel09_low 2
+    2300072: Anel10_low
+    2300074: Anel10_low 1
+    2300076: Anel10_low 2
+    2300078: Anel11_low
+    2300080: Anel11_low 1
+    2300082: Anel11_low 2
+    2300084: Anel12_low
+    2300086: Anel12_low 1
+    2300088: Anel12_low 2
+    2300090: Anel13_low
+    2300092: Anel13_low 1
+    2300094: Anel13_low 2
+    2300096: Anel14_low
+    2300098: Anel14_low 1
+    2300100: Anel14_low 2
+    2300102: Anel15_low
+    2300104: Anel15_low 1
+    2300106: Anel15_low 2
+    2300108: Anel16_low
+    2300110: Anel16_low 1
+    2300112: Anel16_low 2
+    2300114: Anel17_low
+    2300116: Anel17_low 1
+    2300118: Anel17_low 2
+    2300120: Anel18_low
+    2300122: Anel18_low 1
+    2300124: Anel18_low 2
+    2300126: Anel19_low
+    2300128: Anel19_low 1
+    2300130: Anel19_low 2
+    2300132: Anel20_low
+    2300134: Anel20_low 1
+    2300136: Anel20_low 2
+    2300138: Anel21_low
+    2300140: Anel21_low 1
+    2300142: Anel21_low 2
+    2300144: Anel22_low
+    2300146: Anel22_low 1
+    2300148: Anel22_low 2
+    2300150: Anel23_low
+    2300152: Anel23_low 1
+    2300154: Anel23_low 2
+    2300156: Anel24_low
+    2300158: Anel24_low 1
+    2300160: Anel24_low 2
+    2300162: Anel25_low
+    2300164: Anel25_low 1
+    2300166: Anel25_low 2
+    2300168: Anel26_low
+    2300170: Anel26_low 1
+    2300172: Anel26_low 2
+    2300174: Anel27_low
+    2300176: Anel27_low 1
+    2300178: Anel27_low 2
+    2300180: Anel28_low
+    2300182: Anel28_low 1
+    2300184: Anel29_low
+    2300186: Anel29_low 1
+    2300188: Anel30_low
+    2300190: Anel30_low 1
+    2300192: Anel31_low
+    2300194: Anel31_low 1
+    2300196: Anel32_low
+    2300198: Anel32_low 1
+    2300200: Anel33_low
+    2300202: Anel33_low 1
+    2300204: Anel34_low
+    2300206: Anel34_low 1
+    2300208: Anel35_low
+    2300210: Anel35_low 1
+    2300212: Anel36_low
+    2300214: Anel36_low 1
+    2300216: Anel37_low
+    2300218: Anel37_low 1
+    2300220: Anel38_low
+    2300222: Anel38_low 1
+    2300224: Anel39_low
+    2300226: Anel39_low 1
+    2300228: Anel40_low
+    2300230: Anel40_low 1
+    2300232: Anel41_low
+    2300234: Anel41_low 1
+    2300236: Anel42_low
+    2300238: Anel42_low 1
+    2300240: Anel43_low
+    2300242: Anel43_low 1
+    2300244: Anel44_low
+    2300246: Anel44_low 1
+    2300248: Anel45_low
+    2300250: Anel45_low 1
+    2300252: Anel46_low
+    2300254: Anel46_low 1
+    2300256: Anel47_low
+    2300258: Anel47_low 1
+    2300260: Anel48_low
+    2300262: Anel48_low 1
+    2300264: Anel49_low
+    2300266: Anel49_low 1
+    2300268: Anel50_low
+    2300270: Anel50_low 1
+    2300272: Anel51_low
+    2300274: Anel51_low 1
+    2300276: Anel52_low
+    2300278: Anel52_low 1
+    2300280: Anel53_low
+    2300282: Anel53_low 1
+    2300284: Anel54_low
+    2300286: Anel54_low 1
+    2300288: Anel55_low
+    2300290: Anel55_low 1
+    2300292: Anel56_low
+    2300294: Anel56_low 1
+    2300296: Anel57_low
+    2300298: Anel57_low 1
+    2300300: Anel58_low
+    2300302: Anel58_low 1
+    2300304: Anel59_low
+    2300306: Anel59_low 1
+    2300308: Anel60_low
+    2300310: Anel60_low 1
+    2300312: Anel61_low
+    2300314: Anel61_low 1
+    2300316: Anel62_low
+    2300318: Anel62_low 1
+    2300320: Anel63_low
+    2300322: Anel63_low 1
+    2300324: Anel64_low
+    2300326: Anel64_low 1
+    2300328: Anel65_low
+    2300330: Anel65_low 1
+    2300332: Anel66_low
+    2300334: Anel66_low 1
+    2300336: Anel67_low
+    2300338: Anel67_low 1
+    2300340: Anel68_low
+    2300342: Anel68_low 1
+    2300344: Anel70_low
+    2300346: Anel71_low
+    2300348: Anel72_low
+    2300350: Anel73_low
+    2300352: Anel74_low
+    2300354: Anel75_low
+    2300356: Anel76_low
+    2300358: Anel77_low
+    2300360: Anel78_low
+    2300362: Anel85_low
+    2300364: Anel86_low
+    2300366: Anel87_low
+    2300368: Anel88_low
+    2300370: Anel89_low
+    2300372: Anel90_low
+    2300374: Corredor_low
+    2300376: tabua01_low
+    2300378: tabua02_low
+    2300380: tabua03_low
+    2300382: tabua04_low
+    2300384: tabua05_low
+    2300386: Wood01_low
+    2300388: Wood02_low
+    2300390: Wood03_low
+    2300392: Wood04_low
+    2300394: Wood05_low
+    2300396: Wood06_low
+    2300398: Wood07_low
+    2300400: Wood08_low
+    2300402: Wood09_low
+    2300404: Wood10_low
+    2300406: Wood11_low
+    2300408: Wood12_low
+    2300410: Wood13_low
+    2300412: Wood14_low
+    2300414: Wood15_low
+    2300416: Wood16_low
+    2300418: Wood17_low
+    2300420: Wood18_low
+    3300000: Anel010_low
+    3300002: Anel011_low
+    3300004: Anel012_low
+    3300006: Anel013_low
+    3300008: Anel014_low
+    3300010: Anel015_low
+    3300012: Anel016_low
+    3300014: Anel017_low
+    3300016: Anel018_low
+    3300018: Anel01_low
+    3300020: Anel01_low 1
+    3300022: Anel01_low 2
+    3300024: Anel02_low
+    3300026: Anel02_low 1
+    3300028: Anel02_low 2
+    3300030: Anel03_low
+    3300032: Anel03_low 1
+    3300034: Anel03_low 2
+    3300036: Anel04_low
+    3300038: Anel04_low 1
+    3300040: Anel04_low 2
+    3300042: Anel05_low
+    3300044: Anel05_low 1
+    3300046: Anel05_low 2
+    3300048: Anel06_low
+    3300050: Anel06_low 1
+    3300052: Anel06_low 2
+    3300054: Anel07_low
+    3300056: Anel07_low 1
+    3300058: Anel07_low 2
+    3300060: Anel08_low
+    3300062: Anel08_low 1
+    3300064: Anel08_low 2
+    3300066: Anel09_low
+    3300068: Anel09_low 1
+    3300070: Anel09_low 2
+    3300072: Anel10_low
+    3300074: Anel10_low 1
+    3300076: Anel10_low 2
+    3300078: Anel11_low
+    3300080: Anel11_low 1
+    3300082: Anel11_low 2
+    3300084: Anel12_low
+    3300086: Anel12_low 1
+    3300088: Anel12_low 2
+    3300090: Anel13_low
+    3300092: Anel13_low 1
+    3300094: Anel13_low 2
+    3300096: Anel14_low
+    3300098: Anel14_low 1
+    3300100: Anel14_low 2
+    3300102: Anel15_low
+    3300104: Anel15_low 1
+    3300106: Anel15_low 2
+    3300108: Anel16_low
+    3300110: Anel16_low 1
+    3300112: Anel16_low 2
+    3300114: Anel17_low
+    3300116: Anel17_low 1
+    3300118: Anel17_low 2
+    3300120: Anel18_low
+    3300122: Anel18_low 1
+    3300124: Anel18_low 2
+    3300126: Anel19_low
+    3300128: Anel19_low 1
+    3300130: Anel19_low 2
+    3300132: Anel20_low
+    3300134: Anel20_low 1
+    3300136: Anel20_low 2
+    3300138: Anel21_low
+    3300140: Anel21_low 1
+    3300142: Anel21_low 2
+    3300144: Anel22_low
+    3300146: Anel22_low 1
+    3300148: Anel22_low 2
+    3300150: Anel23_low
+    3300152: Anel23_low 1
+    3300154: Anel23_low 2
+    3300156: Anel24_low
+    3300158: Anel24_low 1
+    3300160: Anel24_low 2
+    3300162: Anel25_low
+    3300164: Anel25_low 1
+    3300166: Anel25_low 2
+    3300168: Anel26_low
+    3300170: Anel26_low 1
+    3300172: Anel26_low 2
+    3300174: Anel27_low
+    3300176: Anel27_low 1
+    3300178: Anel27_low 2
+    3300180: Anel28_low
+    3300182: Anel28_low 1
+    3300184: Anel29_low
+    3300186: Anel29_low 1
+    3300188: Anel30_low
+    3300190: Anel30_low 1
+    3300192: Anel31_low
+    3300194: Anel31_low 1
+    3300196: Anel32_low
+    3300198: Anel32_low 1
+    3300200: Anel33_low
+    3300202: Anel33_low 1
+    3300204: Anel34_low
+    3300206: Anel34_low 1
+    3300208: Anel35_low
+    3300210: Anel35_low 1
+    3300212: Anel36_low
+    3300214: Anel36_low 1
+    3300216: Anel37_low
+    3300218: Anel37_low 1
+    3300220: Anel38_low
+    3300222: Anel38_low 1
+    3300224: Anel39_low
+    3300226: Anel39_low 1
+    3300228: Anel40_low
+    3300230: Anel40_low 1
+    3300232: Anel41_low
+    3300234: Anel41_low 1
+    3300236: Anel42_low
+    3300238: Anel42_low 1
+    3300240: Anel43_low
+    3300242: Anel43_low 1
+    3300244: Anel44_low
+    3300246: Anel44_low 1
+    3300248: Anel45_low
+    3300250: Anel45_low 1
+    3300252: Anel46_low
+    3300254: Anel46_low 1
+    3300256: Anel47_low
+    3300258: Anel47_low 1
+    3300260: Anel48_low
+    3300262: Anel48_low 1
+    3300264: Anel49_low
+    3300266: Anel49_low 1
+    3300268: Anel50_low
+    3300270: Anel50_low 1
+    3300272: Anel51_low
+    3300274: Anel51_low 1
+    3300276: Anel52_low
+    3300278: Anel52_low 1
+    3300280: Anel53_low
+    3300282: Anel53_low 1
+    3300284: Anel54_low
+    3300286: Anel54_low 1
+    3300288: Anel55_low
+    3300290: Anel55_low 1
+    3300292: Anel56_low
+    3300294: Anel56_low 1
+    3300296: Anel57_low
+    3300298: Anel57_low 1
+    3300300: Anel58_low
+    3300302: Anel58_low 1
+    3300304: Anel59_low
+    3300306: Anel59_low 1
+    3300308: Anel60_low
+    3300310: Anel60_low 1
+    3300312: Anel61_low
+    3300314: Anel61_low 1
+    3300316: Anel62_low
+    3300318: Anel62_low 1
+    3300320: Anel63_low
+    3300322: Anel63_low 1
+    3300324: Anel64_low
+    3300326: Anel64_low 1
+    3300328: Anel65_low
+    3300330: Anel65_low 1
+    3300332: Anel66_low
+    3300334: Anel66_low 1
+    3300336: Anel67_low
+    3300338: Anel67_low 1
+    3300340: Anel68_low
+    3300342: Anel68_low 1
+    3300344: Anel70_low
+    3300346: Anel71_low
+    3300348: Anel72_low
+    3300350: Anel73_low
+    3300352: Anel74_low
+    3300354: Anel75_low
+    3300356: Anel76_low
+    3300358: Anel77_low
+    3300360: Anel78_low
+    3300362: Anel85_low
+    3300364: Anel86_low
+    3300366: Anel87_low
+    3300368: Anel88_low
+    3300370: Anel89_low
+    3300372: Anel90_low
+    3300374: Corredor_low
+    3300376: tabua01_low
+    3300378: tabua02_low
+    3300380: tabua03_low
+    3300382: tabua04_low
+    3300384: tabua05_low
+    3300386: Wood01_low
+    3300388: Wood02_low
+    3300390: Wood03_low
+    3300392: Wood04_low
+    3300394: Wood05_low
+    3300396: Wood06_low
+    3300398: Wood07_low
+    3300400: Wood08_low
+    3300402: Wood09_low
+    3300404: Wood10_low
+    3300406: Wood11_low
+    3300408: Wood12_low
+    3300410: Wood13_low
+    3300412: Wood14_low
+    3300414: Wood15_low
+    3300416: Wood16_low
+    3300418: Wood17_low
+    3300420: Wood18_low
+    4300000: Anel06_low
+    4300002: Anel01_low
+    4300004: Anel02_low
+    4300006: Anel03_low
+    4300008: Anel04_low
+    4300010: Anel05_low
+    4300012: Anel07_low
+    4300014: Anel08_low
+    4300016: Anel09_low
+    4300018: Anel10_low
+    4300020: Anel11_low
+    4300022: Anel12_low
+    4300024: Anel13_low
+    4300026: Anel14_low
+    4300028: Anel15_low
+    4300030: Anel16_low
+    4300032: Anel17_low
+    4300034: Anel18_low
+    4300036: Anel19_low
+    4300038: Anel20_low
+    4300040: Anel21_low
+    4300042: Anel22_low
+    4300044: Anel23_low
+    4300046: Anel24_low
+    4300048: Anel25_low
+    4300050: Anel26_low
+    4300052: Anel27_low
+    4300054: Anel28_low
+    4300056: Anel29_low
+    4300058: Anel30_low
+    4300060: Anel31_low
+    4300062: Anel32_low
+    4300064: Anel33_low
+    4300066: Anel34_low
+    4300068: Anel35_low
+    4300070: Anel36_low
+    4300072: Anel37_low
+    4300074: Anel38_low
+    4300076: Anel39_low
+    4300078: Anel40_low
+    4300080: Anel41_low
+    4300082: Anel42_low
+    4300084: Anel43_low
+    4300086: Anel44_low
+    4300088: Anel45_low
+    4300090: Anel46_low
+    4300092: Anel47_low
+    4300094: Anel48_low
+    4300096: Anel49_low
+    4300098: Anel50_low
+    4300100: Anel51_low
+    4300102: Anel52_low
+    4300104: Anel53_low
+    4300106: Anel54_low
+    4300108: Anel55_low
+    4300110: Anel56_low
+    4300112: Anel57_low
+    4300114: Anel58_low
+    4300116: Anel59_low
+    4300118: Anel60_low
+    4300120: Anel61_low
+    4300122: Anel62_low
+    4300124: Anel63_low
+    4300126: Anel64_low
+    4300128: Anel65_low
+    4300130: Anel66_low
+    4300132: Anel67_low
+    4300134: Anel68_low
+    4300136: Anel01_low
+    4300138: Anel02_low
+    4300140: Anel03_low
+    4300142: Anel04_low
+    4300144: Anel05_low
+    4300146: Anel06_low
+    4300148: Anel07_low
+    4300150: Anel08_low
+    4300152: Anel09_low
+    4300154: Anel10_low
+    4300156: Anel11_low
+    4300158: Anel12_low
+    4300160: Anel13_low
+    4300162: Anel14_low
+    4300164: Anel15_low
+    4300166: Anel16_low
+    4300168: Anel17_low
+    4300170: Anel18_low
+    4300172: Anel19_low
+    4300174: Anel20_low
+    4300176: Anel21_low
+    4300178: Anel22_low
+    4300180: Anel23_low
+    4300182: Anel24_low
+    4300184: Anel25_low
+    4300186: Anel26_low
+    4300188: Anel27_low
+    4300190: Anel28_low
+    4300192: Anel29_low
+    4300194: Anel30_low
+    4300196: Anel31_low
+    4300198: Anel32_low
+    4300200: Anel33_low
+    4300202: Anel34_low
+    4300204: Anel35_low
+    4300206: Anel36_low
+    4300208: Anel37_low
+    4300210: Anel38_low
+    4300212: Anel39_low
+    4300214: Anel40_low
+    4300216: Anel41_low
+    4300218: Anel42_low
+    4300220: Anel43_low
+    4300222: Anel44_low
+    4300224: Anel45_low
+    4300226: Anel46_low
+    4300228: Anel47_low
+    4300230: Anel48_low
+    4300232: Anel49_low
+    4300234: Anel50_low
+    4300236: Anel51_low
+    4300238: Anel52_low
+    4300240: Anel53_low
+    4300242: Anel54_low
+    4300244: Anel55_low
+    4300246: Anel56_low
+    4300248: Anel57_low
+    4300250: Anel58_low
+    4300252: Anel59_low
+    4300254: Anel60_low
+    4300256: Anel61_low
+    4300258: Anel62_low
+    4300260: Anel63_low
+    4300262: Anel64_low
+    4300264: Anel65_low
+    4300266: Anel66_low
+    4300268: Anel67_low
+    4300270: Anel68_low
+    4300272: tabua01_low
+    4300274: tabua03_low
+    4300276: tabua04_low
+    4300278: Wood01_low
+    4300280: Wood02_low
+    4300282: Wood03_low
+    4300284: Wood04_low
+    4300286: Wood05_low
+    4300288: Wood06_low
+    4300290: Wood07_low
+    4300292: Wood08_low
+    4300294: Wood09_low
+    4300296: Wood10_low
+    4300298: Wood11_low
+    4300300: Wood12_low
+    4300302: Wood13_low
+    4300304: Wood14_low
+    4300306: Wood15_low
+    4300308: Wood16_low
+    4300310: Wood17_low
+    4300312: Wood18_low
+    4300314: tabua02_low
+    4300316: tabua05_low
+    4300318: Corredor_low
+    4300320: Anel01_low
+    4300322: Anel02_low
+    4300324: Anel03_low
+    4300326: Anel04_low
+    4300328: Anel05_low
+    4300330: Anel06_low
+    4300332: Anel07_low
+    4300334: Anel08_low
+    4300336: Anel09_low
+    4300338: Anel10_low
+    4300340: Anel11_low
+    4300342: Anel12_low
+    4300344: Anel13_low
+    4300346: Anel14_low
+    4300348: Anel15_low
+    4300350: Anel16_low
+    4300352: Anel17_low
+    4300354: Anel18_low
+    4300356: Anel19_low
+    4300358: Anel20_low
+    4300360: Anel21_low
+    4300362: Anel22_low
+    4300364: Anel23_low
+    4300366: Anel24_low
+    4300368: Anel25_low
+    4300370: Anel26_low
+    4300372: Anel27_low
+    4300374: Anel70_low
+    4300376: Anel71_low
+    4300378: Anel72_low
+    4300380: Anel73_low
+    4300382: Anel74_low
+    4300384: Anel75_low
+    4300386: Anel76_low
+    4300388: Anel77_low
+    4300390: Anel78_low
+    4300392: Anel85_low
+    4300394: Anel86_low
+    4300396: Anel87_low
+    4300398: Anel88_low
+    4300400: Anel89_low
+    4300402: Anel90_low
+    4300404: Anel010_low
+    4300406: Anel011_low
+    4300408: Anel012_low
+    4300410: Anel013_low
+    4300412: Anel014_low
+    4300414: Anel015_low
+    4300416: Anel016_low
+    4300418: Anel017_low
+    4300420: Anel018_low
+    6400000: Anel010_low
+    6400002: Anel011_low
+    6400004: Anel012_low
+    6400006: Anel013_low
+    6400008: Anel014_low
+    6400010: Anel015_low
+    6400012: Anel016_low
+    6400014: Anel017_low
+    6400016: Anel018_low
+    6400018: Anel01_low
+    6400020: Anel01_low 1
+    6400022: Anel01_low 2
+    6400024: Anel02_low
+    6400026: Anel02_low 1
+    6400028: Anel02_low 2
+    6400030: Anel03_low
+    6400032: Anel03_low 1
+    6400034: Anel03_low 2
+    6400036: Anel04_low
+    6400038: Anel04_low 1
+    6400040: Anel04_low 2
+    6400042: Anel05_low
+    6400044: Anel05_low 1
+    6400046: Anel05_low 2
+    6400048: Anel06_low
+    6400050: Anel06_low 1
+    6400052: Anel06_low 2
+    6400054: Anel07_low
+    6400056: Anel07_low 1
+    6400058: Anel07_low 2
+    6400060: Anel08_low
+    6400062: Anel08_low 1
+    6400064: Anel08_low 2
+    6400066: Anel09_low
+    6400068: Anel09_low 1
+    6400070: Anel09_low 2
+    6400072: Anel10_low
+    6400074: Anel10_low 1
+    6400076: Anel10_low 2
+    6400078: Anel11_low
+    6400080: Anel11_low 1
+    6400082: Anel11_low 2
+    6400084: Anel12_low
+    6400086: Anel12_low 1
+    6400088: Anel12_low 2
+    6400090: Anel13_low
+    6400092: Anel13_low 1
+    6400094: Anel13_low 2
+    6400096: Anel14_low
+    6400098: Anel14_low 1
+    6400100: Anel14_low 2
+    6400102: Anel15_low
+    6400104: Anel15_low 1
+    6400106: Anel15_low 2
+    6400108: Anel16_low
+    6400110: Anel16_low 1
+    6400112: Anel16_low 2
+    6400114: Anel17_low
+    6400116: Anel17_low 1
+    6400118: Anel17_low 2
+    6400120: Anel18_low
+    6400122: Anel18_low 1
+    6400124: Anel18_low 2
+    6400126: Anel19_low
+    6400128: Anel19_low 1
+    6400130: Anel19_low 2
+    6400132: Anel20_low
+    6400134: Anel20_low 1
+    6400136: Anel20_low 2
+    6400138: Anel21_low
+    6400140: Anel21_low 1
+    6400142: Anel21_low 2
+    6400144: Anel22_low
+    6400146: Anel22_low 1
+    6400148: Anel22_low 2
+    6400150: Anel23_low
+    6400152: Anel23_low 1
+    6400154: Anel23_low 2
+    6400156: Anel24_low
+    6400158: Anel24_low 1
+    6400160: Anel24_low 2
+    6400162: Anel25_low
+    6400164: Anel25_low 1
+    6400166: Anel25_low 2
+    6400168: Anel26_low
+    6400170: Anel26_low 1
+    6400172: Anel26_low 2
+    6400174: Anel27_low
+    6400176: Anel27_low 1
+    6400178: Anel27_low 2
+    6400180: Anel28_low
+    6400182: Anel28_low 1
+    6400184: Anel29_low
+    6400186: Anel29_low 1
+    6400188: Anel30_low
+    6400190: Anel30_low 1
+    6400192: Anel31_low
+    6400194: Anel31_low 1
+    6400196: Anel32_low
+    6400198: Anel32_low 1
+    6400200: Anel33_low
+    6400202: Anel33_low 1
+    6400204: Anel34_low
+    6400206: Anel34_low 1
+    6400208: Anel35_low
+    6400210: Anel35_low 1
+    6400212: Anel36_low
+    6400214: Anel36_low 1
+    6400216: Anel37_low
+    6400218: Anel37_low 1
+    6400220: Anel38_low
+    6400222: Anel38_low 1
+    6400224: Anel39_low
+    6400226: Anel39_low 1
+    6400228: Anel40_low
+    6400230: Anel40_low 1
+    6400232: Anel41_low
+    6400234: Anel41_low 1
+    6400236: Anel42_low
+    6400238: Anel42_low 1
+    6400240: Anel43_low
+    6400242: Anel43_low 1
+    6400244: Anel44_low
+    6400246: Anel44_low 1
+    6400248: Anel45_low
+    6400250: Anel45_low 1
+    6400252: Anel46_low
+    6400254: Anel46_low 1
+    6400256: Anel47_low
+    6400258: Anel47_low 1
+    6400260: Anel48_low
+    6400262: Anel48_low 1
+    6400264: Anel49_low
+    6400266: Anel49_low 1
+    6400268: Anel50_low
+    6400270: Anel50_low 1
+    6400272: Anel51_low
+    6400274: Anel51_low 1
+    6400276: Anel52_low
+    6400278: Anel52_low 1
+    6400280: Anel53_low
+    6400282: Anel53_low 1
+    6400284: Anel54_low
+    6400286: Anel54_low 1
+    6400288: Anel55_low
+    6400290: Anel55_low 1
+    6400292: Anel56_low
+    6400294: Anel56_low 1
+    6400296: Anel57_low
+    6400298: Anel57_low 1
+    6400300: Anel58_low
+    6400302: Anel58_low 1
+    6400304: Anel59_low
+    6400306: Anel59_low 1
+    6400308: Anel60_low
+    6400310: Anel60_low 1
+    6400312: Anel61_low
+    6400314: Anel61_low 1
+    6400316: Anel62_low
+    6400318: Anel62_low 1
+    6400320: Anel63_low
+    6400322: Anel63_low 1
+    6400324: Anel64_low
+    6400326: Anel64_low 1
+    6400328: Anel65_low
+    6400330: Anel65_low 1
+    6400332: Anel66_low
+    6400334: Anel66_low 1
+    6400336: Anel67_low
+    6400338: Anel67_low 1
+    6400340: Anel68_low
+    6400342: Anel68_low 1
+    6400344: Anel70_low
+    6400346: Anel71_low
+    6400348: Anel72_low
+    6400350: Anel73_low
+    6400352: Anel74_low
+    6400354: Anel75_low
+    6400356: Anel76_low
+    6400358: Anel77_low
+    6400360: Anel78_low
+    6400362: Anel85_low
+    6400364: Anel86_low
+    6400366: Anel87_low
+    6400368: Anel88_low
+    6400370: Anel89_low
+    6400372: Anel90_low
+    6400374: Corredor_low
+    6400376: tabua01_low
+    6400378: tabua02_low
+    6400380: tabua03_low
+    6400382: tabua04_low
+    6400384: tabua05_low
+    6400386: Wood01_low
+    6400388: Wood02_low
+    6400390: Wood03_low
+    6400392: Wood04_low
+    6400394: Wood05_low
+    6400396: Wood06_low
+    6400398: Wood07_low
+    6400400: Wood08_low
+    6400402: Wood09_low
+    6400404: Wood10_low
+    6400406: Wood11_low
+    6400408: Wood12_low
+    6400410: Wood13_low
+    6400412: Wood14_low
+    6400414: Wood15_low
+    6400416: Wood16_low
+    6400418: Wood17_low
+    6400420: Wood18_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chains_mat
+    second: {fileID: 2100000, guid: ade0f16b54fd43442a4912c18712ee0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_mat
+    second: {fileID: 2100000, guid: d61a12caa17a284418f99d6618e18678, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

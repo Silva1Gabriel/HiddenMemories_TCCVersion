@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sujeira
+  m_Shader: {fileID: 4800000, guid: dbcfa9d300280504c8e128185333757d, type: 3}
+  m_ShaderKeywords: _Cor _MainTex
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainAmbientOcclusion:
+        m_Texture: {fileID: 2800000, guid: 2ccc8d03da68f5748a83f0dcaf98ddf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainHeight:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainMetallic:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainNormal:
+        m_Texture: {fileID: 2800000, guid: b3e6f0eef9758b746a39512fabde2129, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainSpecular:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 863036a0ec79d5f4da807d8249579931, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SujeiraMaskText:
+        m_Texture: {fileID: 2800000, guid: 0d206364c3e81f74c89166cf70c4f9fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SujeiraNormal:
+        m_Texture: {fileID: 2800000, guid: 200db6a6ec9ef8b4ea61bb694b457961, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SujeiraTextura:
+        m_Texture: {fileID: 2800000, guid: 66940964844ac4f40a2080a42692dae4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientOcclusion: 0
+    - _Glossiness: 0
+    - _Metallic: 0
+    - _Specular: 0.058
+    - _SuijeiraQuantidade: 0.163
+    - _SujeiraQuantidade: 0.1
+    m_Colors:
+    - _Cor: {r: 1, g: 1, b: 1, a: 1}
+    - _CorDaCamisa: {r: 0.09545728, g: 0.2924528, b: 0.026210386, a: 0.34509805}

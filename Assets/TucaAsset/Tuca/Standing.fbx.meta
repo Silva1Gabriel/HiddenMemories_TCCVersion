@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: c09b5bbb932e8744e9e69b7408c24612
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Eyes
+    100004: Hair
+    100006: ikHandle1
+    100008: ikHandle1 1
+    100010: ikHandle2
+    100012: ikHandle2 1
+    100014: ikHandle3
+    100016: ikHandle3 1
+    100018: Shirt
+    100020: Sleeves
+    100022: //RootNode
+    100024: Tuca_Anelar_A_dir_jnt
+    100026: Tuca_Anelar_A_esq_jnt
+    100028: Tuca_Anelar_B_dir_jnt
+    100030: Tuca_Anelar_B_esq_jnt
+    100032: Tuca_Anelar_C_dir_jnt
+    100034: Tuca_Anelar_C_esq_jnt
+    100036: Tuca_Anelar_D_dir_jnt_FIM
+    100038: Tuca_Anelar_D_esq_jnt_FIM
+    100040: Tuca_Bacia_jnt
+    100042: Tuca_Braco_A_dir_curve
+    100044: Tuca_braco_A_dir_FK_jnt
+    100046: Tuca_Braco_A_dir_grp
+    100048: Tuca_braco_A_dir_IK_jnt
+    100050: Tuca_braco_A_dir_jnt
+    100052: Tuca_Braco_A_esq_curve
+    100054: Tuca_braco_A_esq_FK_jnt
+    100056: Tuca_Braco_A_esq_grp
+    100058: Tuca_braco_A_esq_IK_jnt
+    100060: Tuca_braco_A_esq_jnt
+    100062: Tuca_Braco_B_dir_curve
+    100064: Tuca_braco_B_dir_FK_jnt
+    100066: Tuca_Braco_B_dir_grp
+    100068: Tuca_braco_B_dir_IK_jnt
+    100070: Tuca_braco_B_dir_jnt
+    100072: Tuca_Braco_B_esq_curve
+    100074: Tuca_braco_B_esq_FK_jnt
+    100076: Tuca_Braco_B_esq_grp
+    100078: Tuca_braco_B_esq_IK_jnt
+    100080: Tuca_braco_B_esq_jnt
+    100082: Tuca_braco_dir_IKHandle_curve
+    100084: Tuca_braco_dir_IKHandle_grp
+    100086: Tuca_braco_esq_IKHandle_curve
+    100088: Tuca_braco_esq_IKHandle_grp
+    100090: Tuca_Cabeca_A_jnt
+    100092: Tuca_Calcanhar_dir
+    100094: Tuca_Calcanhar_esq
+    100096: Tuca_Cintura_curve
+    100098: Tuca_Cintura_grp
+    100100: Tuca_Clavicula_A_dir_jnt
+    100102: Tuca_Clavicula_A_esq_jnt
+    100104: Tuca_Coluna_A_grp
+    100106: Tuca_Coluna_A_jnt
+    100108: Tuca_Coluna_B_Curve
+    100110: Tuca_Coluna_B_grp
+    100112: Tuca_Coluna_B_jnt
+    100114: Tuca_Coluna_C_jnt
+    100116: Tuca_Coluna_curve
+    100118: Tuca_Coluna_D_jnt
+    100120: Tuca_Cotovelo_dir_curve
+    100122: Tuca_Cotovelo_dir_grp
+    100124: Tuca_Cotovelo_esq_curve
+    100126: Tuca_Cotovelo_esq_grp
+    100128: Tuca_curves_grp
+    100130: Tuca_Final:Botao9
+    100132: Tuca_Final:Tuca_LowPoly
+    100134: Tuca_geo
+    100136: Tuca_ikHandle_braco_dir
+    100138: Tuca_ikHandle_braco_dir_grp
+    100140: Tuca_ikHandle_braco_esq
+    100142: Tuca_ikHandle_braco_esq_grp
+    100144: Tuca_IKHandle_grp
+    100146: Tuca_Indicador_A_dir_jnt
+    100148: Tuca_Indicador_A_esq_jnt
+    100150: Tuca_Indicador_B_dir_jnt
+    100152: Tuca_Indicador_B_esq_jnt
+    100154: Tuca_Indicador_C_dir_jnt
+    100156: Tuca_Indicador_C_esq_jnt
+    100158: Tuca_Indicador_D_dir_jnt_FIM
+    100160: Tuca_Indicador_D_esq_jnt_FIM
+    100162: Tuca_jnt
+    100164: Tuca_Joelho_dir_curve
+    100166: Tuca_Joelho_dir_grp
+    100168: Tuca_Joelho_esq_curve
+    100170: Tuca_Joelho_esq_grp
+    100172: Tuca_Mao_A_dir_curve
+    100174: Tuca_Mao_A_dir_FK_jnt
+    100176: Tuca_Mao_A_dir_grp
+    100178: Tuca_Mao_A_dir_IK_jnt
+    100180: Tuca_Mao_A_dir_jnt
+    100182: Tuca_Mao_A_esq_curve
+    100184: Tuca_Mao_A_esq_FK_jnt
+    100186: Tuca_Mao_A_esq_grp
+    100188: Tuca_Mao_A_esq_IK_jnt
+    100190: Tuca_Mao_A_esq_jnt
+    100192: Tuca_Medio_A_dir_jnt
+    100194: Tuca_Medio_A_esq_jnt
+    100196: Tuca_Medio_B_dir_jnt
+    100198: Tuca_Medio_B_esq_jnt
+    100200: Tuca_Medio_C_dir_jnt
+    100202: Tuca_Medio_C_esq_jnt
+    100204: Tuca_Medio_D_dir_jnt_FIM
+    100206: Tuca_Medio_D_esq_jnt_FIM
+    100208: Tuca_Mindinho_A_dir_jnt
+    100210: Tuca_Mindinho_A_esq_jnt
+    100212: Tuca_Mindinho_B_dir_jnt
+    100214: Tuca_Mindinho_B_esq_jnt
+    100216: Tuca_Mindinho_C_dir_jnt
+    100218: Tuca_Mindinho_C_esq_jnt
+    100220: Tuca_Mindinho_D_dir_jnt
+    100222: Tuca_Mindinho_D_esq_jnt
+    100224: Tuca_Ombro_dir_curve
+    100226: Tuca_Ombro_dir_grp
+    100228: Tuca_Ombro_esq_curve
+    100230: Tuca_Ombro_esq_grp
+    100232: Tuca_Pe_A_dir_jnt
+    100234: Tuca_Pe_A_esq_jnt
+    100236: Tuca_Pe_B_dir_jnt
+    100238: Tuca_Pe_B_esq_jnt
+    100240: Tuca_Pe_C_dir_jnt_FIM
+    100242: Tuca_Pe_C_esq_jnt_FIM
+    100244: Tuca_Pe_dir
+    100246: Tuca_Pe_esq
+    100248: Tuca_Perna_A_dir_jnt
+    100250: Tuca_Perna_A_esq_jnt
+    100252: Tuca_Perna_B_dir_jnt
+    100254: Tuca_Perna_B_esq_jnt
+    100256: Tuca_perna_dir_IKHandle_curve
+    100258: Tuca_perna_dir_IKHandle_curve 1
+    100260: Tuca_perna_esq_IKHandle_curve
+    100262: Tuca_perna_esq_IKHandle_grp
+    100264: Tuca_Pescoco
+    100266: Tuca_Pescoco_A_jnt
+    100268: Tuca_Pescoco_B_jnt
+    100270: Tuca_Pescoco_curve
+    100272: Tuca_Polegar_A_dir_jnt
+    100274: Tuca_Polegar_A_esq_jnt
+    100276: Tuca_Polegar_B_dir_jnt
+    100278: Tuca_Polegar_B_esq_jnt
+    100280: Tuca_Polegar_C_dir_jnt
+    100282: Tuca_Polegar_C_esq_jnt
+    100284: Tuca_Polegar_D_dir_jnt_FIM
+    100286: Tuca_Polegar_D_esq_jnt_FIM
+    100288: Tuca_PontadoPe_dir
+    100290: Tuca_PontadoPe_esq
+    100292: Tuca_Root_curve
+    100294: Tuca_Root_jnt
+    100296: Tuca_Tornozelo_dir
+    100298: Tuca_Tornozelo_esq
+    400000: Body
+    400002: Eyes
+    400004: Hair
+    400006: ikHandle1
+    400008: ikHandle1 1
+    400010: ikHandle2
+    400012: ikHandle2 1
+    400014: ikHandle3
+    400016: ikHandle3 1
+    400018: Shirt
+    400020: Sleeves
+    400022: //RootNode
+    400024: Tuca_Anelar_A_dir_jnt
+    400026: Tuca_Anelar_A_esq_jnt
+    400028: Tuca_Anelar_B_dir_jnt
+    400030: Tuca_Anelar_B_esq_jnt
+    400032: Tuca_Anelar_C_dir_jnt
+    400034: Tuca_Anelar_C_esq_jnt
+    400036: Tuca_Anelar_D_dir_jnt_FIM
+    400038: Tuca_Anelar_D_esq_jnt_FIM
+    400040: Tuca_Bacia_jnt
+    400042: Tuca_Braco_A_dir_curve
+    400044: Tuca_braco_A_dir_FK_jnt
+    400046: Tuca_Braco_A_dir_grp
+    400048: Tuca_braco_A_dir_IK_jnt
+    400050: Tuca_braco_A_dir_jnt
+    400052: Tuca_Braco_A_esq_curve
+    400054: Tuca_braco_A_esq_FK_jnt
+    400056: Tuca_Braco_A_esq_grp
+    400058: Tuca_braco_A_esq_IK_jnt
+    400060: Tuca_braco_A_esq_jnt
+    400062: Tuca_Braco_B_dir_curve
+    400064: Tuca_braco_B_dir_FK_jnt
+    400066: Tuca_Braco_B_dir_grp
+    400068: Tuca_braco_B_dir_IK_jnt
+    400070: Tuca_braco_B_dir_jnt
+    400072: Tuca_Braco_B_esq_curve
+    400074: Tuca_braco_B_esq_FK_jnt
+    400076: Tuca_Braco_B_esq_grp
+    400078: Tuca_braco_B_esq_IK_jnt
+    400080: Tuca_braco_B_esq_jnt
+    400082: Tuca_braco_dir_IKHandle_curve
+    400084: Tuca_braco_dir_IKHandle_grp
+    400086: Tuca_braco_esq_IKHandle_curve
+    400088: Tuca_braco_esq_IKHandle_grp
+    400090: Tuca_Cabeca_A_jnt
+    400092: Tuca_Calcanhar_dir
+    400094: Tuca_Calcanhar_esq
+    400096: Tuca_Cintura_curve
+    400098: Tuca_Cintura_grp
+    400100: Tuca_Clavicula_A_dir_jnt
+    400102: Tuca_Clavicula_A_esq_jnt
+    400104: Tuca_Coluna_A_grp
+    400106: Tuca_Coluna_A_jnt
+    400108: Tuca_Coluna_B_Curve
+    400110: Tuca_Coluna_B_grp
+    400112: Tuca_Coluna_B_jnt
+    400114: Tuca_Coluna_C_jnt
+    400116: Tuca_Coluna_curve
+    400118: Tuca_Coluna_D_jnt
+    400120: Tuca_Cotovelo_dir_curve
+    400122: Tuca_Cotovelo_dir_grp
+    400124: Tuca_Cotovelo_esq_curve
+    400126: Tuca_Cotovelo_esq_grp
+    400128: Tuca_curves_grp
+    400130: Tuca_Final:Botao9
+    400132: Tuca_Final:Tuca_LowPoly
+    400134: Tuca_geo
+    400136: Tuca_ikHandle_braco_dir
+    400138: Tuca_ikHandle_braco_dir_grp
+    400140: Tuca_ikHandle_braco_esq
+    400142: Tuca_ikHandle_braco_esq_grp
+    400144: Tuca_IKHandle_grp
+    400146: Tuca_Indicador_A_dir_jnt
+    400148: Tuca_Indicador_A_esq_jnt
+    400150: Tuca_Indicador_B_dir_jnt
+    400152: Tuca_Indicador_B_esq_jnt
+    400154: Tuca_Indicador_C_dir_jnt
+    400156: Tuca_Indicador_C_esq_jnt
+    400158: Tuca_Indicador_D_dir_jnt_FIM
+    400160: Tuca_Indicador_D_esq_jnt_FIM
+    400162: Tuca_jnt
+    400164: Tuca_Joelho_dir_curve
+    400166: Tuca_Joelho_dir_grp
+    400168: Tuca_Joelho_esq_curve
+    400170: Tuca_Joelho_esq_grp
+    400172: Tuca_Mao_A_dir_curve
+    400174: Tuca_Mao_A_dir_FK_jnt
+    400176: Tuca_Mao_A_dir_grp
+    400178: Tuca_Mao_A_dir_IK_jnt
+    400180: Tuca_Mao_A_dir_jnt
+    400182: Tuca_Mao_A_esq_curve
+    400184: Tuca_Mao_A_esq_FK_jnt
+    400186: Tuca_Mao_A_esq_grp
+    400188: Tuca_Mao_A_esq_IK_jnt
+    400190: Tuca_Mao_A_esq_jnt
+    400192: Tuca_Medio_A_dir_jnt
+    400194: Tuca_Medio_A_esq_jnt
+    400196: Tuca_Medio_B_dir_jnt
+    400198: Tuca_Medio_B_esq_jnt
+    400200: Tuca_Medio_C_dir_jnt
+    400202: Tuca_Medio_C_esq_jnt
+    400204: Tuca_Medio_D_dir_jnt_FIM
+    400206: Tuca_Medio_D_esq_jnt_FIM
+    400208: Tuca_Mindinho_A_dir_jnt
+    400210: Tuca_Mindinho_A_esq_jnt
+    400212: Tuca_Mindinho_B_dir_jnt
+    400214: Tuca_Mindinho_B_esq_jnt
+    400216: Tuca_Mindinho_C_dir_jnt
+    400218: Tuca_Mindinho_C_esq_jnt
+    400220: Tuca_Mindinho_D_dir_jnt
+    400222: Tuca_Mindinho_D_esq_jnt
+    400224: Tuca_Ombro_dir_curve
+    400226: Tuca_Ombro_dir_grp
+    400228: Tuca_Ombro_esq_curve
+    400230: Tuca_Ombro_esq_grp
+    400232: Tuca_Pe_A_dir_jnt
+    400234: Tuca_Pe_A_esq_jnt
+    400236: Tuca_Pe_B_dir_jnt
+    400238: Tuca_Pe_B_esq_jnt
+    400240: Tuca_Pe_C_dir_jnt_FIM
+    400242: Tuca_Pe_C_esq_jnt_FIM
+    400244: Tuca_Pe_dir
+    400246: Tuca_Pe_esq
+    400248: Tuca_Perna_A_dir_jnt
+    400250: Tuca_Perna_A_esq_jnt
+    400252: Tuca_Perna_B_dir_jnt
+    400254: Tuca_Perna_B_esq_jnt
+    400256: Tuca_perna_dir_IKHandle_curve
+    400258: Tuca_perna_dir_IKHandle_curve 1
+    400260: Tuca_perna_esq_IKHandle_curve
+    400262: Tuca_perna_esq_IKHandle_grp
+    400264: Tuca_Pescoco
+    400266: Tuca_Pescoco_A_jnt
+    400268: Tuca_Pescoco_B_jnt
+    400270: Tuca_Pescoco_curve
+    400272: Tuca_Polegar_A_dir_jnt
+    400274: Tuca_Polegar_A_esq_jnt
+    400276: Tuca_Polegar_B_dir_jnt
+    400278: Tuca_Polegar_B_esq_jnt
+    400280: Tuca_Polegar_C_dir_jnt
+    400282: Tuca_Polegar_C_esq_jnt
+    400284: Tuca_Polegar_D_dir_jnt_FIM
+    400286: Tuca_Polegar_D_esq_jnt_FIM
+    400288: Tuca_PontadoPe_dir
+    400290: Tuca_PontadoPe_esq
+    400292: Tuca_Root_curve
+    400294: Tuca_Root_jnt
+    400296: Tuca_Tornozelo_dir
+    400298: Tuca_Tornozelo_esq
+    2100000: Merged_L16_defaultMat1
+    2100002: lambert1
+    2100004: Tuca_Final_Tuca_Dentadura
+    2100006: Tuca_Final_Tuca_Pants_mat
+    2100008: Tuca_Final_Tuca_Hair_mat
+    2100010: Tuca_Final_Tuca_Olho_mat
+    2100012: Tuca_Final_Tuca_Shirt_mat
+    2100014: Tuca_Final_Tuca_Skin_mat
+    2300000: Body
+    2300002: Eyes
+    2300004: Hair
+    2300006: Shirt
+    2300008: Sleeves
+    3300000: Body
+    3300002: Eyes
+    3300004: Hair
+    3300006: Shirt
+    3300008: Sleeves
+    4300000: Eyes
+    4300002: Hair
+    4300004: Shirt
+    4300006: Sleeves
+    4300008: Body
+    4300010: Tuca_Final:Botao9
+    7400000: Standing
+    9500000: //RootNode
+    13700000: Tuca_Final:Botao9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Standing
+      takeName: Standing
+      firstFrame: 915
+      lastFrame: 950
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Tuca_Root_jnt
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Perna_A_esq_jnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Perna_A_dir_jnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Perna_B_esq_jnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Perna_B_dir_jnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Pe_A_esq_jnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Pe_A_dir_jnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Coluna_A_jnt
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Coluna_B_jnt
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Pescoco_A_jnt
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Pescoco_B_jnt
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Clavicula_A_esq_jnt
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Clavicula_A_dir_jnt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_braco_A_esq_jnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_braco_A_dir_jnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_braco_B_esq_jnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_braco_B_dir_jnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Mao_A_esq_jnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Mao_A_dir_jnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Pe_B_esq_jnt
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Pe_B_dir_jnt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Cabeca_A_jnt
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Polegar_A_esq_jnt
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Polegar_B_esq_jnt
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Polegar_C_esq_jnt
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Indicador_A_esq_jnt
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Indicador_B_esq_jnt
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Indicador_C_esq_jnt
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Medio_A_esq_jnt
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Medio_B_esq_jnt
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Medio_C_esq_jnt
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Anelar_A_esq_jnt
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Anelar_B_esq_jnt
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Anelar_C_esq_jnt
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Mindinho_A_esq_jnt
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Mindinho_B_esq_jnt
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Mindinho_C_esq_jnt
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Polegar_A_dir_jnt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Polegar_B_dir_jnt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Polegar_C_dir_jnt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Indicador_A_dir_jnt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Indicador_B_dir_jnt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Indicador_C_dir_jnt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Medio_A_dir_jnt
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Medio_B_dir_jnt
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Medio_C_dir_jnt
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Anelar_A_dir_jnt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Anelar_B_dir_jnt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Anelar_C_dir_jnt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Mindinho_A_dir_jnt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Mindinho_B_dir_jnt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Mindinho_C_dir_jnt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tuca_Coluna_C_jnt
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Tuca_base 1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_curves_grp
+      parentName: Tuca_base 1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Root_curve
+      parentName: Tuca_curves_grp
+      position: {x: 0.0038424423, y: 1.0939201, z: 0.0008644044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Cintura_grp
+      parentName: Tuca_Root_curve
+      position: {x: -0.0038424423, y: -1.0939201, z: -0.0008644044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Cintura_curve
+      parentName: Tuca_Cintura_grp
+      position: {x: -0.00023665237, y: 1, z: 6.5225603e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Coluna_A_grp
+      parentName: Tuca_Root_curve
+      position: {x: -0.0040467954, y: -1.0939201, z: -0.0008644044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Coluna_curve
+      parentName: Tuca_Coluna_A_grp
+      position: {x: 0.0038424423, y: 1.0939201, z: 0.0008644044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Coluna_B_grp
+      parentName: Tuca_Coluna_curve
+      position: {x: -0.0038424423, y: -1.0939201, z: -0.0008644044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Coluna_B_Curve
+      parentName: Tuca_Coluna_B_grp
+      position: {x: 0.0038424423, y: 1.221499, z: -0.00041138468}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Ombro_dir_grp
+      parentName: Tuca_Coluna_B_Curve
+      position: {x: -0.0038424423, y: -1.221499, z: 0.00041138468}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Ombro_dir_curve
+      parentName: Tuca_Ombro_dir_grp
+      position: {x: 0.102151, y: 1.4419185, z: 0.0006195473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Braco_A_dir_grp
+      parentName: Tuca_Ombro_dir_curve
+      position: {x: -0.102151, y: -1.45966, z: 3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Braco_A_dir_curve
+      parentName: Tuca_Braco_A_dir_grp
+      position: {x: 0.227416, y: 1.4858, z: -0.050500996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Braco_B_dir_grp
+      parentName: Tuca_Braco_A_dir_curve
+      position: {x: -0.227416, y: -1.4858, z: 0.050500996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Braco_B_dir_curve
+      parentName: Tuca_Braco_B_dir_grp
+      position: {x: 0.47664002, y: 1.4752299, z: -0.0687646}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_dir_grp
+      parentName: Tuca_Braco_B_dir_curve
+      position: {x: -0.47664002, y: -1.4752299, z: 0.0687646}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_dir_curve
+      parentName: Tuca_Mao_A_dir_grp
+      position: {x: 0.763922, y: 1.4727999, z: -0.053304598}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Ombro_esq_grp
+      parentName: Tuca_Coluna_B_Curve
+      position: {x: -0.0038424423, y: -1.221499, z: 0.00041138468}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Ombro_esq_curve
+      parentName: Tuca_Ombro_esq_grp
+      position: {x: -0.095693834, y: 1.4419159, z: 0.0006195473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Braco_A_esq_grp
+      parentName: Tuca_Ombro_esq_curve
+      position: {x: 0.095693834, y: -1.4596574, z: 3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Braco_A_esq_curve
+      parentName: Tuca_Braco_A_esq_grp
+      position: {x: -0.22095926, y: 1.4857953, z: -0.050501008}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Braco_B_esq_grp
+      parentName: Tuca_Braco_A_esq_curve
+      position: {x: 0.22095926, y: -1.4857953, z: 0.050501008}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Braco_B_esq_curve
+      parentName: Tuca_Braco_B_esq_grp
+      position: {x: -0.47018275, y: 1.4752301, z: -0.06876464}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_esq_grp
+      parentName: Tuca_Braco_B_esq_curve
+      position: {x: 0.47018275, y: -1.4752301, z: 0.06876464}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_esq_curve
+      parentName: Tuca_Mao_A_esq_grp
+      position: {x: -0.7574654, y: 1.4727981, z: -0.05330458}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pescoco
+      parentName: Tuca_Coluna_B_Curve
+      position: {x: -0.0038424423, y: -1.221499, z: 0.00041138468}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pescoco_curve
+      parentName: Tuca_Pescoco
+      position: {x: 0.0038424423, y: 1.5710652, z: -0.03613348}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Final:Tuca_LowPoly
+      parentName: Tuca_base 1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Final:Botao9
+      parentName: Tuca_Final:Tuca_LowPoly
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_jnt
+      parentName: Tuca_base 1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Root_jnt
+      parentName: Tuca_jnt
+      position: {x: 0.0038424423, y: 1.0739201, z: 0.0008644044}
+      rotation: {x: 0.49749383, y: -0.5024937, z: -0.49749383, w: 0.5024937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Bacia_jnt
+      parentName: Tuca_Root_jnt
+      position: {x: 0.09390678, y: -0.0018035154, z: 0.0040790946}
+      rotation: {x: -0.49749383, y: 0.5024937, z: 0.49749383, w: 0.5024937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Perna_A_esq_jnt
+      parentName: Tuca_Bacia_jnt
+      position: {x: -0.08981419, y: -0.04968726, z: -0.02121079}
+      rotation: {x: 0.44688043, y: 0.5469852, z: 0.44938892, w: 0.54695034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Perna_B_esq_jnt
+      parentName: Tuca_Perna_A_esq_jnt
+      position: {x: -0.40239874, y: -6.716849e-17, z: -2.3092638e-16}
+      rotation: {x: 0.955876, y: 0.2937706, z: -1.848798e-15, w: 2.7184022e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pe_A_esq_jnt
+      parentName: Tuca_Perna_B_esq_jnt
+      position: {x: -0.46057484, y: -0.07139711, z: -3.375078e-16}
+      rotation: {x: 0.7784782, y: 0.62443894, z: -0.050415628, w: 0.038808722}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pe_B_esq_jnt
+      parentName: Tuca_Pe_A_esq_jnt
+      position: {x: -0.12676346, y: 0.018831048, z: -0.0052571306}
+      rotation: {x: 0.0000003357288, y: -0.00000079286843, z: -0.24126956, w: 0.97045815}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pe_C_esq_jnt_FIM
+      parentName: Tuca_Pe_B_esq_jnt
+      position: {x: -0.113471314, y: 0.0038619663, z: -0.0023039796}
+      rotation: {x: -0.036523398, y: -0.7061629, z: -0.036523398, w: 0.7061629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Perna_A_dir_jnt
+      parentName: Tuca_Bacia_jnt
+      position: {x: 0.08981415, y: -0.049686998, z: -0.021210799}
+      rotation: {x: 0.5504514, y: -0.448492, z: 0.54448545, w: -0.44653532}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Perna_B_dir_jnt
+      parentName: Tuca_Perna_A_dir_jnt
+      position: {x: 0.4023989, y: 0.00000000918653, z: -3.5527136e-17}
+      rotation: {x: 0.955129, y: 0.29619023, z: 1.863882e-16, w: -1.2190889e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pe_A_dir_jnt
+      parentName: Tuca_Perna_B_dir_jnt
+      position: {x: 0.46057495, y: 0.07139711, z: -3.5527136e-17}
+      rotation: {x: 0.7776227, y: 0.6255855, z: -0.04992771, w: 0.038118016}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pe_B_dir_jnt
+      parentName: Tuca_Pe_A_dir_jnt
+      position: {x: 0.12676357, y: -0.018831035, z: 0.005257449}
+      rotation: {x: 0.00000033183693, y: -0.00000078062476, z: -0.24126948, w: 0.97045815}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pe_C_dir_jnt_FIM
+      parentName: Tuca_Pe_B_dir_jnt
+      position: {x: 0.113471694, y: -0.003862059, z: 0.0023037067}
+      rotation: {x: -0.036523398, y: -0.7061629, z: -0.036523398, w: 0.7061629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Coluna_A_jnt
+      parentName: Tuca_Root_jnt
+      position: {x: -0, y: 2.220446e-18, z: 0}
+      rotation: {x: -5.551115e-17, y: -5.551115e-17, z: -0.017452406, w: 0.9998477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Coluna_B_jnt
+      parentName: Tuca_Coluna_A_jnt
+      position: {x: -0.12758528, y: 0, z: -1.4432899e-17}
+      rotation: {x: -2.4918612e-17, y: -3.032832e-17, z: 0.0974526, w: 0.9952402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Coluna_C_jnt
+      parentName: Tuca_Coluna_B_jnt
+      position: {x: -0.12816234, y: 0.00013657537, z: 0.000614027}
+      rotation: {x: -0.44615653, y: 0.5485839, z: 0.44615653, w: 0.5485839}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Coluna_D_jnt
+      parentName: Tuca_Coluna_C_jnt
+      position: {x: 0.000614027, y: 0.15644842, z: -0.032703426}
+      rotation: {x: -0.41183054, y: 0.5748005, z: -0.41183054, w: 0.5748005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pescoco_A_jnt
+      parentName: Tuca_Coluna_D_jnt
+      position: {x: -0.07141001, y: 5.684342e-16, z: 1.498801e-17}
+      rotation: {x: -0, y: -0, z: 0.06463042, w: 0.9979093}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Pescoco_B_jnt
+      parentName: Tuca_Pescoco_A_jnt
+      position: {x: -0.09973, y: -2.842171e-16, z: 1.2212453e-17}
+      rotation: {x: 0, y: -0, z: -0.28451854, w: 0.95867056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Cabeca_A_jnt
+      parentName: Tuca_Pescoco_B_jnt
+      position: {x: -0.18722159, y: -2.264855e-16, z: 3.2751578e-17}
+      rotation: {x: 0.49322578, y: -0.50668365, z: 0.49322578, w: 0.50668365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Clavicula_A_esq_jnt
+      parentName: Tuca_Coluna_C_jnt
+      position: {x: -0.09912661, y: 0.094915845, z: 0.027013801}
+      rotation: {x: -0.000000044703484, y: 0.043528527, z: 0.0225292, w: 0.99879813}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_A_esq_FK_jnt
+      parentName: Tuca_Clavicula_A_esq_jnt
+      position: {x: -0.12526543, y: 0.026137957, z: -0.050501008}
+      rotation: {x: 0.0053949826, y: -0.006712974, z: 0.65882754, w: 0.7522447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_B_esq_FK_jnt
+      parentName: Tuca_braco_A_esq_FK_jnt
+      position: {x: -0.24972467, y: -2.842171e-16, z: -0.013968363}
+      rotation: {x: 0.0039078947, y: 0.16557835, z: -0.016649047, w: 0.98604834}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_esq_FK_jnt
+      parentName: Tuca_braco_B_esq_FK_jnt
+      position: {x: -0.28770867, y: 5.684342e-16, z: -1.5987211e-16}
+      rotation: {x: 0.0000804274, y: 0.018981207, z: -0.004236411, w: 0.9998109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_A_esq_IK_jnt
+      parentName: Tuca_Clavicula_A_esq_jnt
+      position: {x: -0.12526543, y: 0.026137957, z: -0.050501008}
+      rotation: {x: -0.00018220986, y: -0.008610264, z: 0.021157637, w: 0.99973905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_B_esq_IK_jnt
+      parentName: Tuca_braco_A_esq_IK_jnt
+      position: {x: -0.24972467, y: -2.842171e-16, z: -0.013968363}
+      rotation: {x: 0.0006004781, y: 0.03547997, z: -0.016911345, w: 0.9992271}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_esq_IK_jnt
+      parentName: Tuca_braco_B_esq_IK_jnt
+      position: {x: -0.28770867, y: 5.684342e-16, z: -1.5987211e-16}
+      rotation: {x: 0.0000804274, y: 0.018981207, z: -0.004236411, w: 0.9998109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_A_esq_jnt
+      parentName: Tuca_Clavicula_A_esq_jnt
+      position: {x: -0.12526543, y: 0.026137957, z: -0.050501008}
+      rotation: {x: 0.07172559, y: -0.017126737, z: -0.010672179, w: 0.9972203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_B_esq_jnt
+      parentName: Tuca_braco_A_esq_jnt
+      position: {x: -0.24972467, y: -2.842171e-16, z: -0.013968363}
+      rotation: {x: 0.0026466844, y: 0.005227405, z: -0.008364988, w: 0.99994785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_esq_jnt
+      parentName: Tuca_braco_B_esq_jnt
+      position: {x: -0.28770867, y: 5.684342e-16, z: -1.5987211e-16}
+      rotation: {x: 0.0000804274, y: 0.018981207, z: -0.004236411, w: 0.9998109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Medio_A_esq_jnt
+      parentName: Tuca_Mao_A_esq_jnt
+      position: {x: -0.11528592, y: -2.8421708e-15, z: -1.5987211e-16}
+      rotation: {x: 0.0000025400489, y: -0.022700017, z: -0.000026600597, w: 0.9997423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Medio_B_esq_jnt
+      parentName: Tuca_Medio_A_esq_jnt
+      position: {x: -0.034907572, y: 3.126388e-15, z: -0.00095928315}
+      rotation: {x: 0, y: -0.040714767, z: -0, w: 0.99917084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Medio_C_esq_jnt
+      parentName: Tuca_Medio_B_esq_jnt
+      position: {x: -0.025618693, y: 8.81073e-15, z: -3.1974422e-16}
+      rotation: {x: 0, y: 0.01784861, z: -0, w: 0.99984074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Medio_D_esq_jnt_FIM
+      parentName: Tuca_Medio_C_esq_jnt
+      position: {x: -0.02380482, y: 1.1368684e-15, z: 7.3718807e-16}
+      rotation: {x: 0, y: -0.01784861, z: -0, w: 0.99984074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Anelar_A_esq_jnt
+      parentName: Tuca_Mao_A_esq_jnt
+      position: {x: -0.1051678, y: 0.00063398934, z: -0.021711104}
+      rotation: {x: 0.00030055165, y: -0.04099493, z: 0.000009756277, w: 0.99915934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Anelar_B_esq_jnt
+      parentName: Tuca_Anelar_A_esq_jnt
+      position: {x: -0.033270232, y: -1.9895197e-15, z: 3.1974422e-16}
+      rotation: {x: 0, y: 0.0060127946, z: -0, w: 0.99998194}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Anelar_C_esq_jnt
+      parentName: Tuca_Anelar_B_esq_jnt
+      position: {x: -0.025459008, y: -2.842171e-16, z: -3.5527136e-17}
+      rotation: {x: 0, y: -0.0034057144, z: -0, w: 0.9999942}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Anelar_D_esq_jnt_FIM
+      parentName: Tuca_Anelar_C_esq_jnt
+      position: {x: -0.018538484, y: -1.9895197e-15, z: -3.0198067e-16}
+      rotation: {x: 0, y: -0.0074620633, z: -0, w: 0.99997216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mindinho_A_esq_jnt
+      parentName: Tuca_Mao_A_esq_jnt
+      position: {x: -0.09018214, y: -0.003532745, z: -0.043422706}
+      rotation: {x: 0.0003009568, y: -0.082488574, z: -0.000005348365, w: 0.9965919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mindinho_B_esq_jnt
+      parentName: Tuca_Mindinho_A_esq_jnt
+      position: {x: -0.023069445, y: 3.126388e-15, z: -3.4416914e-17}
+      rotation: {x: -0.000000089843525, y: 0.040194564, z: 0.0000001896351, w: 0.9991919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mindinho_C_esq_jnt
+      parentName: Tuca_Mindinho_B_esq_jnt
+      position: {x: -0.020213444, y: 4.8316907e-15, z: 2.664535e-16}
+      rotation: {x: 0, y: 0.00827773, z: -0, w: 0.9999657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mindinho_D_esq_jnt
+      parentName: Tuca_Mindinho_C_esq_jnt
+      position: {x: -0.014410396, y: -4.5474734e-15, z: -5.3290704e-17}
+      rotation: {x: 0, y: -0.028810227, z: -0, w: 0.9995849}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Indicador_A_esq_jnt
+      parentName: Tuca_Mao_A_esq_jnt
+      position: {x: -0.11766504, y: 0.0015978669, z: 0.025806965}
+      rotation: {x: 0.00030045598, y: -0.03234558, z: 0.000012357215, w: 0.99947673}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Indicador_B_esq_jnt
+      parentName: Tuca_Indicador_A_esq_jnt
+      position: {x: -0.030720806, y: -2.8421708e-15, z: 3.1974422e-16}
+      rotation: {x: 0, y: -0.008655901, z: -0, w: 0.99996257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Indicador_C_esq_jnt
+      parentName: Tuca_Indicador_B_esq_jnt
+      position: {x: -0.028497629, y: 4.8316907e-15, z: -1.02140514e-16}
+      rotation: {x: 0, y: -0.011347114, z: -0, w: 0.9999356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Indicador_D_esq_jnt_FIM
+      parentName: Tuca_Indicador_C_esq_jnt
+      position: {x: -0.021304846, y: 0, z: 4.0523138e-17}
+      rotation: {x: 0, y: 0.0064930962, z: -0, w: 0.99997896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Polegar_A_esq_jnt
+      parentName: Tuca_Mao_A_esq_jnt
+      position: {x: -0.037008703, y: -0.018222434, z: 0.044962205}
+      rotation: {x: -0.018301368, y: 0.3618258, z: 0.012048881, w: 0.93198824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Polegar_B_esq_jnt
+      parentName: Tuca_Polegar_A_esq_jnt
+      position: {x: -0.05807089, y: 4.263256e-15, z: -1.2789769e-15}
+      rotation: {x: 0.00000005587934, y: -0.03835436, z: -0.00000013504174, w: 0.99926424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Polegar_C_esq_jnt
+      parentName: Tuca_Polegar_B_esq_jnt
+      position: {x: -0.021652302, y: 0, z: 1.4921397e-15}
+      rotation: {x: 0, y: -0.03220785, z: -0, w: 0.9994812}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Polegar_D_esq_jnt_FIM
+      parentName: Tuca_Polegar_C_esq_jnt
+      position: {x: -0.019217623, y: 2.5579537e-15, z: 4.973799e-16}
+      rotation: {x: 0, y: -0.19828747, z: -0, w: 0.9801439}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Clavicula_A_dir_jnt
+      parentName: Tuca_Coluna_C_jnt
+      position: {x: 0.09871823, y: 0.09491849, z: 0.027013801}
+      rotation: {x: 0.998798, y: -0.022532597, z: 0.043531567, w: 0.000000044703484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_A_dir_FK_jnt
+      parentName: Tuca_Clavicula_A_dir_jnt
+      position: {x: 0.12526499, y: -0.02614, z: 0.050500996}
+      rotation: {x: 0.0053949826, y: -0.006712974, z: 0.65882754, w: 0.7522447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_B_dir_FK_jnt
+      parentName: Tuca_braco_A_dir_FK_jnt
+      position: {x: 0.24972539, y: 0.000004781476, z: 0.01396832}
+      rotation: {x: 0.0039078947, y: 0.16557835, z: -0.016649047, w: 0.98604834}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_dir_FK_jnt
+      parentName: Tuca_braco_B_dir_FK_jnt
+      position: {x: 0.28770795, y: -0.0000019753998, z: 0.000000023393008}
+      rotation: {x: 0.0000804274, y: 0.018981207, z: -0.004236411, w: 0.9998109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_A_dir_IK_jnt
+      parentName: Tuca_Clavicula_A_dir_jnt
+      position: {x: 0.12526499, y: -0.02614, z: 0.050500996}
+      rotation: {x: -0.08198675, y: 0.43458265, z: 0.32159787, w: 0.837252}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_B_dir_IK_jnt
+      parentName: Tuca_braco_A_dir_IK_jnt
+      position: {x: 0.24972539, y: 0.000004781476, z: 0.01396832}
+      rotation: {x: 0.0551928, y: 0.45874637, z: -0.12389912, w: 0.8781541}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_dir_IK_jnt
+      parentName: Tuca_braco_B_dir_IK_jnt
+      position: {x: 0.28770795, y: -0.0000019753998, z: 0.000000023393008}
+      rotation: {x: 0.0000804274, y: 0.018981207, z: -0.004236411, w: 0.9998109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_A_dir_jnt
+      parentName: Tuca_Clavicula_A_dir_jnt
+      position: {x: 0.12526499, y: -0.02614, z: 0.050500996}
+      rotation: {x: 0.071729794, y: -0.017129568, z: -0.010685217, w: 0.9972198}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_braco_B_dir_jnt
+      parentName: Tuca_braco_A_dir_jnt
+      position: {x: 0.24972539, y: 0.000004781476, z: 0.01396832}
+      rotation: {x: 0.002647347, y: 0.005227567, z: -0.00835376, w: 0.9999479}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mao_A_dir_jnt
+      parentName: Tuca_braco_B_dir_jnt
+      position: {x: 0.28770795, y: -0.0000019753998, z: 0.000000023393008}
+      rotation: {x: 0.0000804274, y: 0.018981207, z: -0.004236411, w: 0.9998109}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Medio_A_dir_jnt
+      parentName: Tuca_Mao_A_dir_jnt
+      position: {x: 0.11528661, y: 0.000005088559, z: 0.0000000025895581}
+      rotation: {x: 0.0000025400261, y: -0.022700017, z: -0.000026600599, w: 0.9997423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Medio_B_dir_jnt
+      parentName: Tuca_Medio_A_dir_jnt
+      position: {x: 0.03490702, y: -0.000008123515, z: 0.00095930166}
+      rotation: {x: 0, y: -0.040714763, z: -0, w: 0.99917084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Medio_C_dir_jnt
+      parentName: Tuca_Medio_B_dir_jnt
+      position: {x: 0.02561881, y: 0.0000005467118, z: 0.000000017036792}
+      rotation: {x: 0, y: 0.01784861, z: -0, w: 0.99984074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Medio_D_dir_jnt_FIM
+      parentName: Tuca_Medio_C_dir_jnt
+      position: {x: 0.023805002, y: 0.0000010183729, z: -0.000000025830936}
+      rotation: {x: 0, y: -0.01784861, z: -0, w: 0.99984074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Anelar_A_dir_jnt
+      parentName: Tuca_Mao_A_dir_jnt
+      position: {x: 0.10516846, y: -0.00062838045, z: 0.021711124}
+      rotation: {x: 0.00030055165, y: -0.04099493, z: 0.000009756277, w: 0.99915934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Anelar_B_dir_jnt
+      parentName: Tuca_Anelar_A_dir_jnt
+      position: {x: 0.033269566, y: -3.126388e-15, z: 0.000000043925983}
+      rotation: {x: 0.000000012904551, y: 0.0060127946, z: -7.759382e-11, w: 0.99998194}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Anelar_C_dir_jnt
+      parentName: Tuca_Anelar_B_dir_jnt
+      position: {x: 0.025459014, y: -1.7053025e-15, z: -0.000000073895585}
+      rotation: {x: 0.000000016659609, y: -0.0034057144, z: 5.6738197e-11, w: 0.9999942}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Anelar_D_dir_jnt_FIM
+      parentName: Tuca_Anelar_C_dir_jnt
+      position: {x: 0.018539064, y: 3.2602543e-12, z: 0.00000007163381}
+      rotation: {x: 0.000000030714727, y: -0.0074620633, z: 2.2920162e-10, w: 0.99997216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mindinho_A_dir_jnt
+      parentName: Tuca_Mao_A_dir_jnt
+      position: {x: 0.09018285, y: 0.0035379361, z: 0.043422803}
+      rotation: {x: 0.000300823, y: -0.082488686, z: -0.000002695016, w: 0.9965919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mindinho_B_dir_jnt
+      parentName: Tuca_Mindinho_A_dir_jnt
+      position: {x: 0.023069417, y: -7.1054274e-15, z: -0.0000000011992618}
+      rotation: {x: -0.000000031635853, y: 0.04019405, z: -0.00000091997265, w: 0.9991919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mindinho_C_dir_jnt
+      parentName: Tuca_Mindinho_B_dir_jnt
+      position: {x: 0.020213049, y: -1.4210854e-15, z: -0.000000027374153}
+      rotation: {x: 0, y: 0.00827773, z: -0, w: 0.9999657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Mindinho_D_dir_jnt
+      parentName: Tuca_Mindinho_C_dir_jnt
+      position: {x: 0.014409923, y: 4.8316907e-15, z: -0.000000038397687}
+      rotation: {x: 0, y: -0.028810227, z: -0, w: 0.9995849}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Indicador_A_dir_jnt
+      parentName: Tuca_Mao_A_dir_jnt
+      position: {x: 0.11766537, y: -0.0015993278, z: -0.025806967}
+      rotation: {x: 0.00030045598, y: -0.03234558, z: 0.000012357215, w: 0.99947673}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Indicador_B_dir_jnt
+      parentName: Tuca_Indicador_A_dir_jnt
+      position: {x: 0.030721214, y: -6.536993e-15, z: 3.5527136e-17}
+      rotation: {x: 0.000000010536318, y: -0.008655901, z: 9.120473e-11, w: 0.99996257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Indicador_C_dir_jnt
+      parentName: Tuca_Indicador_B_dir_jnt
+      position: {x: 0.028497342, y: 4.263256e-15, z: 0.00000006019133}
+      rotation: {x: 0.000000014897488, y: -0.011347114, z: 1.6905438e-10, w: 0.9999356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Indicador_D_dir_jnt_FIM
+      parentName: Tuca_Indicador_C_dir_jnt
+      position: {x: 0.021304796, y: 1.018094e-11, z: -0.000000062332404}
+      rotation: {x: 0.000000027876341, y: 0.0064930962, z: -1.8100758e-10, w: 0.99997896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Polegar_A_dir_jnt
+      parentName: Tuca_Mao_A_dir_jnt
+      position: {x: 0.037009053, y: 0.018228604, z: -0.04496219}
+      rotation: {x: -0.018283466, y: 0.36182106, z: 0.012088172, w: 0.9319899}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Polegar_B_dir_jnt
+      parentName: Tuca_Polegar_A_dir_jnt
+      position: {x: 0.058069076, y: -0.0000035802582, z: -0.000000018735856}
+      rotation: {x: 0.000001795589, y: -0.038351934, z: -0.000023007848, w: 0.9992643}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Polegar_C_dir_jnt
+      parentName: Tuca_Polegar_B_dir_jnt
+      position: {x: 0.021652514, y: 0.000000084836806, z: 0.0000000021683402}
+      rotation: {x: 0, y: -0.03220785, z: -0, w: 0.9994812}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuca_Polegar_D_dir_jnt_FIM
+      parentName: Tuca_Polegar_C_dir_jnt
+      position: {x: 0.019219287, y: 0.0000038767403, z: 0}
+      rotation: {x: 0, y: -0.19828747, z: -0, w: 0.9801439}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 12f20328d1180ac4498b687d8a1647a8,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

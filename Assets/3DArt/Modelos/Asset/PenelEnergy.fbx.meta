@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 3a578e38c6166ae4984f050ffb2e6683
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BG01
+    100002: BG02
+    100004: Botao1
+    100006: Botao2
+    100008: Botao3
+    100010: Botao4
+    100012: Cabine
+    100014: Cano
+    100016: Luz_verde
+    100018: Luz_vermelho
+    100020: Macaneta
+    100022: Macaneta_suporte
+    100024: //RootNode
+    100026: Pes
+    100028: polySurface1
+    100030: polySurface2
+    100032: polySurface3
+    100034: polySurface4
+    100036: Tela
+    400000: BG01
+    400002: BG02
+    400004: Botao1
+    400006: Botao2
+    400008: Botao3
+    400010: Botao4
+    400012: Cabine
+    400014: Cano
+    400016: Luz_verde
+    400018: Luz_vermelho
+    400020: Macaneta
+    400022: Macaneta_suporte
+    400024: //RootNode
+    400026: Pes
+    400028: polySurface1
+    400030: polySurface2
+    400032: polySurface3
+    400034: polySurface4
+    400036: Tela
+    2100000: lambert1
+    2300000: Botao1
+    2300002: Botao2
+    2300004: Botao3
+    2300006: Botao4
+    2300008: Cabine
+    2300010: Cano
+    2300012: Luz_verde
+    2300014: Luz_vermelho
+    2300016: Macaneta
+    2300018: Macaneta_suporte
+    2300020: Pes
+    2300022: polySurface1
+    2300024: polySurface2
+    2300026: polySurface3
+    2300028: polySurface4
+    2300030: Tela
+    3300000: Botao1
+    3300002: Botao2
+    3300004: Botao3
+    3300006: Botao4
+    3300008: Cabine
+    3300010: Cano
+    3300012: Luz_verde
+    3300014: Luz_vermelho
+    3300016: Macaneta
+    3300018: Macaneta_suporte
+    3300020: Pes
+    3300022: polySurface1
+    3300024: polySurface2
+    3300026: polySurface3
+    3300028: polySurface4
+    3300030: Tela
+    4300000: Cano
+    4300002: Luz_vermelho
+    4300004: Luz_verde
+    4300006: Botao4
+    4300008: Botao3
+    4300010: Botao2
+    4300012: Botao1
+    4300014: polySurface1
+    4300016: polySurface2
+    4300018: polySurface3
+    4300020: polySurface4
+    4300022: Macaneta
+    4300024: Macaneta_suporte
+    4300026: Pes
+    4300028: Tela
+    4300030: Cabine
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: f42bdcee3e10c0243893f211794cc1d6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Attic.unity
+    guid: 7a0fadf8fc70aac4f8960d61f8e1b5ff
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: ff2aed9ac0db8584c8ae163d7a7212a4
+  - enabled: 1
+    path: Assets/Scenes/NewLevels/OutDoor.unity
+    guid: ebaee7f2ef1de904195411ab50d2e5e5
+  - enabled: 1
+    path: Assets/Scenes/LoadingNewGroundFloor.unity
+    guid: 3d5757a377651f84baa2ba6d3536f280
+  - enabled: 1
+    path: Assets/Scenes/NewLevels/NewGroundFloor.unity
+    guid: 842919b9023642845926d442e8e4cca6
+  - enabled: 1
+    path: Assets/Scenes/LoadingPorao.unity
+    guid: 53c1276d54a840245b8f42c3304f6fc3
+  - enabled: 1
+    path: Assets/Scenes/NewLevels/Basement.unity
+    guid: 7bb9043210f043e4782e3603ccbb0543
+  - enabled: 1
+    path: Assets/Scenes/NewLevels/Credits.unity
+    guid: 8c0551d2f3b01c949aea4bf7d781f66e
+  - enabled: 1
+    path: Assets/Scenes/TelaAgradecimento.unity
+    guid: 56c1238eea6c9ab42b4617d17d300c48
+  m_configObjects: {}

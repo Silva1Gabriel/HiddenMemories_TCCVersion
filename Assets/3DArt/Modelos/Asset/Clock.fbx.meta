@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 0aacfa7a0d0606a4099655e0473c5696
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: //RootNode
+    100004: Head
+    100006: Head1
+    100008: Horas
+    100010: Horas 1
+    100012: Minutos
+    100014: Parafuso
+    100016: Pendulo
+    100018: Pilastras
+    100020: Ponteiros
+    100022: Porta1
+    100024: Porta2
+    100026: Segundos
+    100028: Vidro2
+    100030: Vidro3
+    100032: Vidro_1
+    100034: Vidro_2
+    400000: Body
+    400002: //RootNode
+    400004: Head
+    400006: Head1
+    400008: Horas
+    400010: Horas 1
+    400012: Minutos
+    400014: Parafuso
+    400016: Pendulo
+    400018: Pilastras
+    400020: Ponteiros
+    400022: Porta1
+    400024: Porta2
+    400026: Segundos
+    400028: Vidro2
+    400030: Vidro3
+    400032: Vidro_1
+    400034: Vidro_2
+    2100000: Clock_part3
+    2100002: Vidro1
+    2100004: Clock_part4
+    2300000: Body
+    2300002: Head1
+    2300004: Horas
+    2300006: Horas 1
+    2300008: Minutos
+    2300010: Parafuso
+    2300012: Pendulo
+    2300014: Pilastras
+    2300016: Porta1
+    2300018: Porta2
+    2300020: Segundos
+    2300022: Vidro2
+    2300024: Vidro3
+    2300026: Vidro_1
+    2300028: Vidro_2
+    3300000: Body
+    3300002: Head1
+    3300004: Horas
+    3300006: Horas 1
+    3300008: Minutos
+    3300010: Parafuso
+    3300012: Pendulo
+    3300014: Pilastras
+    3300016: Porta1
+    3300018: Porta2
+    3300020: Segundos
+    3300022: Vidro2
+    3300024: Vidro3
+    3300026: Vidro_1
+    3300028: Vidro_2
+    4300000: Porta1
+    4300002: Vidro_2
+    4300004: Vidro_1
+    4300006: Porta2
+    4300008: Vidro2
+    4300010: Vidro3
+    4300012: Pilastras
+    4300014: Head1
+    4300016: Horas
+    4300018: Horas
+    4300020: Minutos
+    4300022: Segundos
+    4300024: Parafuso
+    4300026: Body
+    4300028: Pendulo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_part3
+    second: {fileID: 2100000, guid: f18cb84352cc0704292392a1fc071850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_part4
+    second: {fileID: 2100000, guid: bd0f4541ad7d70c46af1366ab18ad395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidro1
+    second: {fileID: 2100000, guid: 84266bb4d3950574c8637a454a4ae0cf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

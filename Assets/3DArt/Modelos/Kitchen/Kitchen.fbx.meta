@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 33149585d7d746e4084bbe260dfae73d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armario01
+    100002: Armario02
+    100004: Armario03
+    100006: Armario04
+    100008: Armario05
+    100010: Armario06
+    100012: Armario07
+    100014: Armario08
+    100016: Armario09
+    100018: Armario10
+    100020: Armario11
+    100022: Armario12
+    100024: armario_low
+    100026: Base
+    100028: Box
+    100030: Caixa
+    100032: Caixa 1
+    100034: Caixa 2
+    100036: Caixa 3
+    100038: Caixa 4
+    100040: Caixa 5
+    100042: Caixa 6
+    100044: Caixa 7
+    100046: Caixa 8
+    100048: Caixa 9
+    100050: Caixa1
+    100052: Caixa2
+    100054: copo
+    100056: Cuba
+    100058: Door
+    100060: Door1
+    100062: Door_Batente_Batente
+    100064: Door_Batente_Batente1
+    100066: Door_Dobradica1_Dobradica
+    100068: Door_Dobradica1_Dobradica1
+    100070: Fogao
+    100072: Fogao1
+    100074: Gaveta_01
+    100076: Gaveta_01 1
+    100078: Gaveta_01 10
+    100080: Gaveta_01 2
+    100082: Gaveta_01 3
+    100084: Gaveta_01 4
+    100086: Gaveta_01 5
+    100088: Gaveta_01 6
+    100090: Gaveta_01 7
+    100092: Gaveta_01 8
+    100094: Gaveta_01 9
+    100096: Gaveta_02
+    100098: Gaveta_02 1
+    100100: Gaveta_02 10
+    100102: Gaveta_02 2
+    100104: Gaveta_02 3
+    100106: Gaveta_02 4
+    100108: Gaveta_02 5
+    100110: Gaveta_02 6
+    100112: Gaveta_02 7
+    100114: Gaveta_02 8
+    100116: Gaveta_02 9
+    100118: Gaveta_03
+    100120: Gaveta_03 1
+    100122: Gaveta_03 2
+    100124: Gaveta_03 3
+    100126: Gaveta_03 4
+    100128: Gaveta_03 5
+    100130: Gaveta_03 6
+    100132: Gaveta_03 7
+    100134: Gaveta_03 8
+    100136: Gaveta_04
+    100138: Gaveta_05
+    100140: Gaveta_06
+    100142: Geladeira
+    100144: group4
+    100146: Janela01
+    100148: Janela02
+    100150: Janela03
+    100152: Janela04
+    100154: Janelas
+    100156: //RootNode
+    100158: Madeira
+    100160: Marble1
+    100162: Marble2
+    100164: Mesa
+    100166: pCylinder19
+    100168: pCylinder20
+    100170: pCylinder21
+    100172: pCylinder22
+    100174: pCylinder23
+    100176: Pia
+    100178: Pia 1
+    100180: polySurface131
+    100182: Porta_dir_low
+    100184: Porta_esq_low
+    100186: pote
+    100188: Prateleira
+    100190: prato
+    100192: Puxador_01
+    100194: Puxador_01 1
+    100196: Puxador_01 10
+    100198: Puxador_01 2
+    100200: Puxador_01 3
+    100202: Puxador_01 4
+    100204: Puxador_01 5
+    100206: Puxador_01 6
+    100208: Puxador_01 7
+    100210: Puxador_01 8
+    100212: Puxador_01 9
+    100214: Puxador_02
+    100216: Puxador_02 1
+    100218: Puxador_02 10
+    100220: Puxador_02 2
+    100222: Puxador_02 3
+    100224: Puxador_02 4
+    100226: Puxador_02 5
+    100228: Puxador_02 6
+    100230: Puxador_02 7
+    100232: Puxador_02 8
+    100234: Puxador_02 9
+    100236: Puxador_03
+    100238: Puxador_03 1
+    100240: Puxador_03 2
+    100242: Puxador_03 3
+    100244: Puxador_03 4
+    100246: Puxador_03 5
+    100248: Puxador_03 6
+    100250: Puxador_03 7
+    100252: Puxador_03 8
+    100254: Puxador_04
+    100256: Puxador_05
+    100258: Puxador_06
+    100260: Tabua01
+    100262: Tabua02
+    100264: Tabua03
+    100266: Tabua04
+    100268: Tabua05
+    100270: Tabua06
+    100272: Tampa_1
+    100274: Tampa_2
+    100276: Tampa_3
+    100278: Torneira
+    100280: Torneira01
+    100282: Torneira02
+    100284: utensilios
+    100286: Vidro_01
+    100288: Vidro_01 1
+    100290: Vidro_01 2
+    100292: Vidro_01 3
+    100294: Vidro_02
+    100296: Vidro_02 1
+    100298: Vidro_02 2
+    100300: Vidro_02 3
+    100302: Vinho
+    100304: Wall
+    400000: Armario01
+    400002: Armario02
+    400004: Armario03
+    400006: Armario04
+    400008: Armario05
+    400010: Armario06
+    400012: Armario07
+    400014: Armario08
+    400016: Armario09
+    400018: Armario10
+    400020: Armario11
+    400022: Armario12
+    400024: armario_low
+    400026: Base
+    400028: Box
+    400030: Caixa
+    400032: Caixa 1
+    400034: Caixa 2
+    400036: Caixa 3
+    400038: Caixa 4
+    400040: Caixa 5
+    400042: Caixa 6
+    400044: Caixa 7
+    400046: Caixa 8
+    400048: Caixa 9
+    400050: Caixa1
+    400052: Caixa2
+    400054: copo
+    400056: Cuba
+    400058: Door
+    400060: Door1
+    400062: Door_Batente_Batente
+    400064: Door_Batente_Batente1
+    400066: Door_Dobradica1_Dobradica
+    400068: Door_Dobradica1_Dobradica1
+    400070: Fogao
+    400072: Fogao1
+    400074: Gaveta_01
+    400076: Gaveta_01 1
+    400078: Gaveta_01 10
+    400080: Gaveta_01 2
+    400082: Gaveta_01 3
+    400084: Gaveta_01 4
+    400086: Gaveta_01 5
+    400088: Gaveta_01 6
+    400090: Gaveta_01 7
+    400092: Gaveta_01 8
+    400094: Gaveta_01 9
+    400096: Gaveta_02
+    400098: Gaveta_02 1
+    400100: Gaveta_02 10
+    400102: Gaveta_02 2
+    400104: Gaveta_02 3
+    400106: Gaveta_02 4
+    400108: Gaveta_02 5
+    400110: Gaveta_02 6
+    400112: Gaveta_02 7
+    400114: Gaveta_02 8
+    400116: Gaveta_02 9
+    400118: Gaveta_03
+    400120: Gaveta_03 1
+    400122: Gaveta_03 2
+    400124: Gaveta_03 3
+    400126: Gaveta_03 4
+    400128: Gaveta_03 5
+    400130: Gaveta_03 6
+    400132: Gaveta_03 7
+    400134: Gaveta_03 8
+    400136: Gaveta_04
+    400138: Gaveta_05
+    400140: Gaveta_06
+    400142: Geladeira
+    400144: group4
+    400146: Janela01
+    400148: Janela02
+    400150: Janela03
+    400152: Janela04
+    400154: Janelas
+    400156: //RootNode
+    400158: Madeira
+    400160: Marble1
+    400162: Marble2
+    400164: Mesa
+    400166: pCylinder19
+    400168: pCylinder20
+    400170: pCylinder21
+    400172: pCylinder22
+    400174: pCylinder23
+    400176: Pia
+    400178: Pia 1
+    400180: polySurface131
+    400182: Porta_dir_low
+    400184: Porta_esq_low
+    400186: pote
+    400188: Prateleira
+    400190: prato
+    400192: Puxador_01
+    400194: Puxador_01 1
+    400196: Puxador_01 10
+    400198: Puxador_01 2
+    400200: Puxador_01 3
+    400202: Puxador_01 4
+    400204: Puxador_01 5
+    400206: Puxador_01 6
+    400208: Puxador_01 7
+    400210: Puxador_01 8
+    400212: Puxador_01 9
+    400214: Puxador_02
+    400216: Puxador_02 1
+    400218: Puxador_02 10
+    400220: Puxador_02 2
+    400222: Puxador_02 3
+    400224: Puxador_02 4
+    400226: Puxador_02 5
+    400228: Puxador_02 6
+    400230: Puxador_02 7
+    400232: Puxador_02 8
+    400234: Puxador_02 9
+    400236: Puxador_03
+    400238: Puxador_03 1
+    400240: Puxador_03 2
+    400242: Puxador_03 3
+    400244: Puxador_03 4
+    400246: Puxador_03 5
+    400248: Puxador_03 6
+    400250: Puxador_03 7
+    400252: Puxador_03 8
+    400254: Puxador_04
+    400256: Puxador_05
+    400258: Puxador_06
+    400260: Tabua01
+    400262: Tabua02
+    400264: Tabua03
+    400266: Tabua04
+    400268: Tabua05
+    400270: Tabua06
+    400272: Tampa_1
+    400274: Tampa_2
+    400276: Tampa_3
+    400278: Torneira
+    400280: Torneira01
+    400282: Torneira02
+    400284: utensilios
+    400286: Vidro_01
+    400288: Vidro_01 1
+    400290: Vidro_01 2
+    400292: Vidro_01 3
+    400294: Vidro_02
+    400296: Vidro_02 1
+    400298: Vidro_02 2
+    400300: Vidro_02 3
+    400302: Vinho
+    400304: Wall
+    2100000: lambert1
+    2100002: lambert8
+    2100004: Metal
+    2100006: WoodKitchen
+    2100008: Marble
+    2100010: wood
+    2100012: WallKitchen
+    2100014: Door_Porta_mat1
+    2100016: fogao
+    2300000: Base
+    2300002: Box
+    2300004: Caixa
+    2300006: Caixa 1
+    2300008: Caixa 2
+    2300010: Caixa 3
+    2300012: Caixa 4
+    2300014: Caixa 5
+    2300016: Caixa 6
+    2300018: Caixa 7
+    2300020: Caixa 8
+    2300022: Caixa 9
+    2300024: Caixa1
+    2300026: Caixa2
+    2300028: copo
+    2300030: Cuba
+    2300032: Door
+    2300034: Door1
+    2300036: Door_Batente_Batente
+    2300038: Door_Batente_Batente1
+    2300040: Door_Dobradica1_Dobradica
+    2300042: Door_Dobradica1_Dobradica1
+    2300044: Fogao1
+    2300046: Gaveta_01
+    2300048: Gaveta_01 1
+    2300050: Gaveta_01 10
+    2300052: Gaveta_01 2
+    2300054: Gaveta_01 3
+    2300056: Gaveta_01 4
+    2300058: Gaveta_01 5
+    2300060: Gaveta_01 6
+    2300062: Gaveta_01 7
+    2300064: Gaveta_01 8
+    2300066: Gaveta_01 9
+    2300068: Gaveta_02
+    2300070: Gaveta_02 1
+    2300072: Gaveta_02 10
+    2300074: Gaveta_02 2
+    2300076: Gaveta_02 3
+    2300078: Gaveta_02 4
+    2300080: Gaveta_02 5
+    2300082: Gaveta_02 6
+    2300084: Gaveta_02 7
+    2300086: Gaveta_02 8
+    2300088: Gaveta_02 9
+    2300090: Gaveta_03
+    2300092: Gaveta_03 1
+    2300094: Gaveta_03 2
+    2300096: Gaveta_03 3
+    2300098: Gaveta_03 4
+    2300100: Gaveta_03 5
+    2300102: Gaveta_03 6
+    2300104: Gaveta_03 7
+    2300106: Gaveta_03 8
+    2300108: Gaveta_04
+    2300110: Gaveta_05
+    2300112: Gaveta_06
+    2300114: Geladeira
+    2300116: Janela01
+    2300118: Janela02
+    2300120: Janela03
+    2300122: Janela04
+    2300124: Madeira
+    2300126: Marble2
+    2300128: Pia 1
+    2300130: polySurface131
+    2300132: Porta_dir_low
+    2300134: Porta_esq_low
+    2300136: pote
+    2300138: Prateleira
+    2300140: prato
+    2300142: Puxador_01
+    2300144: Puxador_01 1
+    2300146: Puxador_01 10
+    2300148: Puxador_01 2
+    2300150: Puxador_01 3
+    2300152: Puxador_01 4
+    2300154: Puxador_01 5
+    2300156: Puxador_01 6
+    2300158: Puxador_01 7
+    2300160: Puxador_01 8
+    2300162: Puxador_01 9
+    2300164: Puxador_02
+    2300166: Puxador_02 1
+    2300168: Puxador_02 10
+    2300170: Puxador_02 2
+    2300172: Puxador_02 3
+    2300174: Puxador_02 4
+    2300176: Puxador_02 5
+    2300178: Puxador_02 6
+    2300180: Puxador_02 7
+    2300182: Puxador_02 8
+    2300184: Puxador_02 9
+    2300186: Puxador_03
+    2300188: Puxador_03 1
+    2300190: Puxador_03 2
+    2300192: Puxador_03 3
+    2300194: Puxador_03 4
+    2300196: Puxador_03 5
+    2300198: Puxador_03 6
+    2300200: Puxador_03 7
+    2300202: Puxador_03 8
+    2300204: Puxador_04
+    2300206: Puxador_05
+    2300208: Puxador_06
+    2300210: Tabua01
+    2300212: Tabua02
+    2300214: Tabua03
+    2300216: Tabua04
+    2300218: Tabua05
+    2300220: Tabua06
+    2300222: Tampa_1
+    2300224: Tampa_2
+    2300226: Tampa_3
+    2300228: Torneira01
+    2300230: Torneira02
+    2300232: Vidro_01
+    2300234: Vidro_01 1
+    2300236: Vidro_01 2
+    2300238: Vidro_01 3
+    2300240: Vidro_02
+    2300242: Vidro_02 1
+    2300244: Vidro_02 2
+    2300246: Vidro_02 3
+    2300248: Vinho
+    2300250: Wall
+    3300000: Base
+    3300002: Box
+    3300004: Caixa
+    3300006: Caixa 1
+    3300008: Caixa 2
+    3300010: Caixa 3
+    3300012: Caixa 4
+    3300014: Caixa 5
+    3300016: Caixa 6
+    3300018: Caixa 7
+    3300020: Caixa 8
+    3300022: Caixa 9
+    3300024: Caixa1
+    3300026: Caixa2
+    3300028: copo
+    3300030: Cuba
+    3300032: Door
+    3300034: Door1
+    3300036: Door_Batente_Batente
+    3300038: Door_Batente_Batente1
+    3300040: Door_Dobradica1_Dobradica
+    3300042: Door_Dobradica1_Dobradica1
+    3300044: Fogao1
+    3300046: Gaveta_01
+    3300048: Gaveta_01 1
+    3300050: Gaveta_01 10
+    3300052: Gaveta_01 2
+    3300054: Gaveta_01 3
+    3300056: Gaveta_01 4
+    3300058: Gaveta_01 5
+    3300060: Gaveta_01 6
+    3300062: Gaveta_01 7
+    3300064: Gaveta_01 8
+    3300066: Gaveta_01 9
+    3300068: Gaveta_02
+    3300070: Gaveta_02 1
+    3300072: Gaveta_02 10
+    3300074: Gaveta_02 2
+    3300076: Gaveta_02 3
+    3300078: Gaveta_02 4
+    3300080: Gaveta_02 5
+    3300082: Gaveta_02 6
+    3300084: Gaveta_02 7
+    3300086: Gaveta_02 8
+    3300088: Gaveta_02 9
+    3300090: Gaveta_03
+    3300092: Gaveta_03 1
+    3300094: Gaveta_03 2
+    3300096: Gaveta_03 3
+    3300098: Gaveta_03 4
+    3300100: Gaveta_03 5
+    3300102: Gaveta_03 6
+    3300104: Gaveta_03 7
+    3300106: Gaveta_03 8
+    3300108: Gaveta_04
+    3300110: Gaveta_05
+    3300112: Gaveta_06
+    3300114: Geladeira
+    3300116: Janela01
+    3300118: Janela02
+    3300120: Janela03
+    3300122: Janela04
+    3300124: Madeira
+    3300126: Marble2
+    3300128: Pia 1
+    3300130: polySurface131
+    3300132: Porta_dir_low
+    3300134: Porta_esq_low
+    3300136: pote
+    3300138: Prateleira
+    3300140: prato
+    3300142: Puxador_01
+    3300144: Puxador_01 1
+    3300146: Puxador_01 10
+    3300148: Puxador_01 2
+    3300150: Puxador_01 3
+    3300152: Puxador_01 4
+    3300154: Puxador_01 5
+    3300156: Puxador_01 6
+    3300158: Puxador_01 7
+    3300160: Puxador_01 8
+    3300162: Puxador_01 9
+    3300164: Puxador_02
+    3300166: Puxador_02 1
+    3300168: Puxador_02 10
+    3300170: Puxador_02 2
+    3300172: Puxador_02 3
+    3300174: Puxador_02 4
+    3300176: Puxador_02 5
+    3300178: Puxador_02 6
+    3300180: Puxador_02 7
+    3300182: Puxador_02 8
+    3300184: Puxador_02 9
+    3300186: Puxador_03
+    3300188: Puxador_03 1
+    3300190: Puxador_03 2
+    3300192: Puxador_03 3
+    3300194: Puxador_03 4
+    3300196: Puxador_03 5
+    3300198: Puxador_03 6
+    3300200: Puxador_03 7
+    3300202: Puxador_03 8
+    3300204: Puxador_04
+    3300206: Puxador_05
+    3300208: Puxador_06
+    3300210: Tabua01
+    3300212: Tabua02
+    3300214: Tabua03
+    3300216: Tabua04
+    3300218: Tabua05
+    3300220: Tabua06
+    3300222: Tampa_1
+    3300224: Tampa_2
+    3300226: Tampa_3
+    3300228: Torneira01
+    3300230: Torneira02
+    3300232: Vidro_01
+    3300234: Vidro_01 1
+    3300236: Vidro_01 2
+    3300238: Vidro_01 3
+    3300240: Vidro_02
+    3300242: Vidro_02 1
+    3300244: Vidro_02 2
+    3300246: Vidro_02 3
+    3300248: Vinho
+    3300250: Wall
+    4300000: Vinho
+    4300002: Cuba
+    4300004: polySurface131
+    4300006: Puxador_01
+    4300008: Gaveta_01
+    4300010: Puxador_02
+    4300012: Gaveta_02
+    4300014: Puxador_03
+    4300016: Gaveta_03
+    4300018: Caixa
+    4300020: Puxador_01
+    4300022: Gaveta_01
+    4300024: Puxador_02
+    4300026: Gaveta_02
+    4300028: Puxador_03
+    4300030: Gaveta_03
+    4300032: Caixa
+    4300034: Puxador_01
+    4300036: Gaveta_01
+    4300038: Puxador_02
+    4300040: Gaveta_02
+    4300042: Puxador_03
+    4300044: Gaveta_03
+    4300046: Caixa
+    4300048: Puxador_01
+    4300050: Gaveta_01
+    4300052: Puxador_02
+    4300054: Gaveta_02
+    4300056: Puxador_03
+    4300058: Gaveta_03
+    4300060: Puxador_04
+    4300062: Gaveta_04
+    4300064: Puxador_05
+    4300066: Gaveta_05
+    4300068: Puxador_06
+    4300070: Gaveta_06
+    4300072: Caixa
+    4300074: Puxador_01
+    4300076: Gaveta_01
+    4300078: Puxador_02
+    4300080: Gaveta_02
+    4300082: Puxador_03
+    4300084: Gaveta_03
+    4300086: Caixa
+    4300088: Puxador_01
+    4300090: Gaveta_01
+    4300092: Puxador_02
+    4300094: Gaveta_02
+    4300096: Puxador_03
+    4300098: Gaveta_03
+    4300100: Caixa
+    4300102: Puxador_01
+    4300104: Gaveta_01
+    4300106: Puxador_02
+    4300108: Gaveta_02
+    4300110: Puxador_03
+    4300112: Gaveta_03
+    4300114: Caixa
+    4300116: Puxador_01
+    4300118: Gaveta_01
+    4300120: Puxador_02
+    4300122: Gaveta_02
+    4300124: Puxador_03
+    4300126: Gaveta_03
+    4300128: Caixa
+    4300130: Tabua01
+    4300132: Tabua02
+    4300134: Tabua03
+    4300136: Tabua04
+    4300138: Tabua05
+    4300140: Tabua06
+    4300142: Puxador_01
+    4300144: Gaveta_01
+    4300146: Gaveta_02
+    4300148: Puxador_02
+    4300150: Caixa
+    4300152: Puxador_01
+    4300154: Gaveta_01
+    4300156: Puxador_02
+    4300158: Gaveta_02
+    4300160: Caixa
+    4300162: Puxador_01
+    4300164: Gaveta_01
+    4300166: Puxador_02
+    4300168: Gaveta_02
+    4300170: Puxador_03
+    4300172: Gaveta_03
+    4300174: Caixa1
+    4300176: Caixa2
+    4300178: Pia
+    4300180: Torneira01
+    4300182: Torneira02
+    4300184: Tampa_1
+    4300186: Tampa_2
+    4300188: Tampa_3
+    4300190: Madeira
+    4300192: Marble2
+    4300194: Base
+    4300196: Wall
+    4300198: Janela01
+    4300200: Vidro_01
+    4300202: Vidro_02
+    4300204: Janela02
+    4300206: Vidro_01
+    4300208: Vidro_02
+    4300210: Janela03
+    4300212: Vidro_01
+    4300214: Vidro_02
+    4300216: Janela04
+    4300218: Vidro_01
+    4300220: Vidro_02
+    4300222: Door_Dobradica1_Dobradica1
+    4300224: Door_Batente_Batente1
+    4300226: Door1
+    4300228: Door_Dobradica1_Dobradica
+    4300230: Door_Batente_Batente
+    4300232: Door
+    4300234: pote
+    4300236: copo
+    4300238: prato
+    4300240: Geladeira
+    4300242: Fogao1
+    4300244: Porta_dir_low
+    4300246: Porta_esq_low
+    4300248: Prateleira
+    4300250: Box
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallKitchen
+    second: {fileID: 2100000, guid: fe4b955cfdd37a24ab687a704a470002, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

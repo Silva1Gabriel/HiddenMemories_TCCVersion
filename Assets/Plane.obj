@@ -1,0 +1,27 @@
+# Exported from ProBuilder
+# http://www.procore3d.com/probuilder
+# 11/8/2018 9:44:38 PM
+
+mtllib ./Plane.mtl
+o Plane
+
+g Plane
+v 26 1.9999 0.1204562
+v 26.25 1.9999 0.1204563
+v 26 1.9999 1.407787
+v 26.25 1.9999 1.407787
+
+vn 0 1.084787 0
+vn 0 1.084787 0
+vn 0 1.084787 0
+vn 0 1.084787 0
+
+vt -0.1867129 0.7088947
+vt -0.1867129 0.9393538
+vt 0.9999999 0.7088947
+vt 1 0.9393538
+
+g Plane
+usemtl Wood
+f 3/3/3 4/4/4 2/2/2 1/1/1
+
